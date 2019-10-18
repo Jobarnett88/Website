@@ -1,0 +1,23 @@
+<h1> Events <h1>
+
+<br>
+
+  <table>
+    <tbody>
+      <tr>
+        <th width = "300">Date/Time</th>
+        <th width = "300">Location</th>
+        <th width = "300">Type</th>
+      <tr>
+      <% @events.each do |event| %>
+        <tr>
+          <td><%= event.date_time %></td>
+          <td><%= event.location %></td>
+          <td><%= event.event_type %></td>
+        <tr>
+      <% end %>
+    </tbody>
+  <table>
+  <br>
+
+  <%= link_to 'Back to Home', welcome_index_path %>

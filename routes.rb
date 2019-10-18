@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
-  get 'welcome/page1'
-  get 'welcome/page2'
+  resources :users
+  resources :events
+
+  get 'events/show'
   get 'welcome/index'
 
   root 'welcome#index'
