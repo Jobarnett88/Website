@@ -1,23 +1,30 @@
-<h1> Events <h1>
-
-<br>
-
-  <table>
-    <tbody>
-      <tr>
-        <th width = "300">Date/Time</th>
-        <th width = "300">Location</th>
-        <th width = "300">Type</th>
-      <tr>
-      <% @events.each do |event| %>
-        <tr>
-          <td><%= event.date_time %></td>
-          <td><%= event.location %></td>
-          <td><%= event.event_type %></td>
-        <tr>
+<% if current_user %>
+  Logged in as <%= current_user.email %>
+  <%= link_to "Log Out", logout_path %>
+  <%= link_to 'Change Password', edit_user_path(current_user) %>
+<% else %>
+  <%= link_to "Sign Up", signup_path %> or
+  <%= link_to "Log in", login_path %>
+<% end %>
+<div class="row">
+  <div class="col-md-12 text-center">
+    <div class="well controls">
+      <%= link_to calendar_path(date: @date - 1.month), class: "btn btn-default" do %>
+        <i class="glyphicon glyphicon-backward"></i>
       <% end %>
-    </tbody>
-  <table>
-  <br>
-
-  <%= link_to 'Back to Home', welcome_index_path %>
+      <%= "#{@date.strftime("%B")} #{@date.year}" %>
+      <%= link_to calendar_path(date: @date + 1.month), class: "btn btn-default" do %>
+        <i class="glyphicon glyphicon-forward"></i>
+      <% end %>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <%= calendar @date do |date| %>
+      <%= link_to date.day, welcome_day_path %>
+    <% end %>
+  </div>
+</div>
+<br>
+<%= link_to 'Back to Home', root_url %>
