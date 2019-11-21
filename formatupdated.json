@@ -1,0 +1,3827 @@
+{
+    "Wescoe School - Current & New Student Advising": {
+        "StartDate": "8/29/2019",
+        "StartTime": "8:00 AM",
+        "EndDate": "8/29/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Mule Meetup with Psychology Faculty": {
+        "StartDate": "8/8/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "8/8/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 8/8/2019 6:00 PM to 8:00 PM\r\nChicago - Catch up with fellow Mules and three 'Berg psychology professors when they visit your city!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Downeast Cider Tour": {
+        "StartDate": "8/14/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "8/14/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 8/14/2019 6:30 PM to 9:00 PM\r\nBoston - Enjoy a cider house tour with plenty of delicious unfiltered craft cider!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Trexler Meditation": {
+        "StartDate": "12/4/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "12/4/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "on Wednesday every week until 12/4/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Move-In Day and Candle Lighting for the Class of 2023": {
+        "StartDate": "8/22/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "8/22/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 8/22/2019\r\nWelcome the Class of 2023 to Muhlenberg!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Muhlenberg Alumni Virtual Book Club": {
+        "StartDate": "11/10/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/10/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/10/2019\r\nOur next selection is Blue Highways: A Journey into America by William Least Heat-Moon. Discussion begins November 7 - come read with us! See more details and sign up here. \r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "NYC End of Summer Alumni Picnic": {
+        "StartDate": "8/24/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "8/24/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 8/24/2019 1:00 PM to 3:00 PM\r\nNew York City - Meet up with Mules for a picnic in Central Park.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "MANDATORY MUSIC STUDENT MEETING": {
+        "StartDate": "8/26/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "8/26/2019",
+        "EndTime": "6:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "Mandatory meeting for all music majors, music minors,and all students who take Applied Music Lessons.",
+        "Location": "Center for the Arts"
+    },
+    "On-campus Session: Captioning Videos with Reach": {
+        "StartDate": "8/28/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "8/28/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "This session will explore Reach Captioning with videos.",
+        "Location": "Ettinger"
+    },
+    "Fall Involvement Fair": {
+        "StartDate": "8/30/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "Fall Involvement Fair \n\r\nA showcase of student clubs, organizations \r\nand involvement opportunities.\n\r\nThe fair is Fri, Aug. 30 from 3;30 p.m. to 5;30 p.m.\r\nin Parent's Plaza and Academic Row.",
+        "Location": "Seegers"
+    },
+    "Field Hockey at Scranton": {
+        "StartDate": "8/30/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Scranton",
+        "Location": "Other"
+    },
+    "Women's Soccer vs. Juniata": {
+        "StartDate": "8/30/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Juniata",
+        "Location": "Varsity Field"
+    },
+    "Cross Country at Lehigh Invitational": {
+        "StartDate": "8/30/2019",
+        "StartTime": "5:30 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at Lehigh Invitational",
+        "Location": "Other"
+    },
+    "Volleyball at Salisbury Sea Gull Classic": {
+        "StartDate": "8/31/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "8/31/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Salisbury Sea Gull Classic: vs. Susquehanna, 1:00; vs. Salisbury, 3:00",
+        "Location": "Other"
+    },
+    "Comedian Daniel Franzese": {
+        "StartDate": "8/30/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Comedian Daniel Franzese \r\n(who famously portrayed Damian in Mean Girls) \r\nwill be in the Event Space \r\non Friday, Aug. 30 at 7 p.m. \r\nfor a comedy show. \r\nThis event is sponsored by the \r\nMuhlenberg Activities Council \r\nand open to all students, faculty and staff.",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Soccer at Susquehanna": {
+        "StartDate": "8/30/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "8/30/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Susquehanna",
+        "Location": "Other"
+    },
+    "Outdoor Movie: Aladdin": {
+        "StartDate": "8/31/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "8/31/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Join the Muhlenberg Activities Council \r\nunder the stars for a screening of the \r\nnew Aladdin film on Sat, Aug. 31 \r\nat 8 p.m. on the Front Lawn. \n\r\nRain location is the Seegers Event Space. \r\nBring your own blanket!",
+        "Location": "Muhlenberg College"
+    },
+    "Chapel Worship Service": {
+        "StartDate": "11/24/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "11/24/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Religious",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Women's Soccer vs. Susquehanna": {
+        "StartDate": "9/1/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/1/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Susquehanna",
+        "Location": "Varsity Field"
+    },
+    "Chapel Fellowship Dinner": {
+        "StartDate": "11/24/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/24/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Religious",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Roman Catholic Mass": {
+        "StartDate": "11/24/2019",
+        "StartTime": "9:00 PM",
+        "EndDate": "11/24/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Religious",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Intramural Soccer": {
+        "StartDate": "12/4/2019",
+        "StartTime": "8:30 PM",
+        "EndDate": "12/4/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "on Monday and Wednesday every week until 12/4/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Red Door Catering Fall Showcase": {
+        "StartDate": "9/3/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/3/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "Please join us to meet our team, taste our new menu features and learn about our brand. See what's new for the Fall 2019 semester and check out our new student catering guide!",
+        "Location": "Seegers"
+    },
+    "Writing Center Schedule - Fall 2019": {
+        "StartDate": "12/5/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "12/5/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on Sunday, Monday, Tuesday, Wednesday and Thursday every week until 12/5/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Spin Class": {
+        "StartDate": "12/4/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "12/4/2019",
+        "EndTime": "12:50 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "on Wednesday every week until 12/4/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Exit West - An Invitation to the Conversation": {
+        "StartDate": "9/3/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/3/2019",
+        "EndTime": "8:45 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 9/3/2019 7:00 PM to 8:45 PM\r\nA panel of Muhlenberg faculty provides brief reflections on Mohsin Hamid's novel, \"Exit West.\"\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Exit West - Center for Ethics Opening Event": {
+        "StartDate": "9/3/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/3/2019",
+        "EndTime": "8:45 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "This opening event features a panel of Muhlenberg faculty presenting brief reflections on Mohsin Hamid's novel, Exit West, followed by an invitation to the campus community to join in an opening discussion of the Center for Ethics theme via key themes, moments, characters and symbols presented in Hamid's work.",
+        "Location": "Moyer"
+    },
+    "Intramural Volleyball": {
+        "StartDate": "12/5/2019",
+        "StartTime": "9:30 PM",
+        "EndDate": "12/5/2019",
+        "EndTime": "11:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "on Tuesday and Thursday every week until 12/5/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Web-conferencing with Zoom": {
+        "StartDate": "9/4/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "9/4/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "This in-person presentation will examine Zoom from how to get started to more advanced user questions and use cases. There will be a Zoom session online in October as well.",
+        "Location": "Ettinger"
+    },
+    "Women's Soccer at Gwynedd Mercy": {
+        "StartDate": "9/4/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/4/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Gwynedd Mercy",
+        "Location": "Other"
+    },
+    "Men's Soccer vs. Immaculata": {
+        "StartDate": "9/4/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/4/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Immaculata",
+        "Location": "Varsity Field"
+    },
+    "Field Hockey vs. DeSales": {
+        "StartDate": "9/4/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "9/4/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. DeSales",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Henry's Hurrah": {
+        "StartDate": "9/6/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "9/6/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "11:00 a.m. - 1:00 p.m. |The Pep Band will perform \"Happy Birthday\" at 12:30 p.m.\nParent's Plaza\n(Rain Location: Seegers Union, Light Lounge & Event Space)\nCustom \"Henry's Hurrah!\" pub mugs, tie dye t-shirts, and tech stickers are available to the first 200 attendees!",
+        "Location": "Seegers"
+    },
+    "Henry's Hurrah!": {
+        "StartDate": "9/6/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "9/6/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Join us for an Oktoberfest-themed celebration in honor of Henry Melchior Muhlenberg's birthday -- 308(!) years after Henry was born. Enjoy birthday treats (including an ice cream float bar, cupcakes, and caramel apple dippers) and refreshments, plus an Oktoberfest-themed Mobile Mule. In addition, look forward to a Henry-themed photo booth; giant chess game; DJ; live performances by the Pep Band; and more!\n\nATTENTION STUDENTS! Custom \"Henry's Hurrah!\" pub mugs, tie dye t-shirts, and tech stickers are available to the first 200 attendees!",
+        "Location": "Seegers"
+    },
+    "Chemistry Speaker  - Nathaniel Rosi": {
+        "StartDate": "9/6/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "9/6/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Nathaniel Rosi from the University of Pittsburgh will present Design, Synthesis and Applications of Metal-Organic Frameworks",
+        "Location": "Trumbower"
+    },
+    "Bus trip to Philly / CollegeFest": {
+        "StartDate": "9/7/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "9/7/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "MAC is sponsoring a free trip to \r\nPhiladelphia on Sat, Sept. 7 for \r\nPhilly CollegeFest. \r\nSign up at the Seegers Student Life Suite.\r\nBus departs at 9 a.m. and returns by 5 p.m",
+        "Location": "Other"
+    },
+    "Volleyball at Vassar": {
+        "StartDate": "9/7/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "9/7/2019",
+        "EndTime": "3:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Vassar with Morrisville State",
+        "Location": "Other"
+    },
+    "Women's Golf at McDaniel Fall Invitational": {
+        "StartDate": "9/7/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/7/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Golf at McDaniel Fall Invitational",
+        "Location": "Other"
+    },
+    "Football vs. The College of New Jersey": {
+        "StartDate": "9/7/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/7/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. The College of New Jersey",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Field Hockey at Elizabethtown": {
+        "StartDate": "9/7/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "9/7/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Elizabethtown",
+        "Location": "Other"
+    },
+    "Women's Soccer vs. Delaware Valley": {
+        "StartDate": "9/7/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "9/7/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Delaware Valley",
+        "Location": "Varsity Field"
+    },
+    "Men's Soccer at Messiah": {
+        "StartDate": "9/7/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/7/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Messiah",
+        "Location": "Other"
+    },
+    "Men's Golf at York Spartan Invitational": {
+        "StartDate": "9/8/2019",
+        "StartTime": "11:30 AM",
+        "EndDate": "9/8/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf at York Spartan Invitational",
+        "Location": "Other"
+    },
+    "Time Management and Surviving First Semester": {
+        "StartDate": "9/10/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/11/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Yoga Class": {
+        "StartDate": "12/2/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "12/2/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "on Monday every week until 12/2/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Field Hockey vs. King's": {
+        "StartDate": "9/10/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "9/10/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. King's",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Family Weekend": {
+        "StartDate": "11/1/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/2/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/1/2019 to 11/2/2019\r\n11:45 a.m.-1 p.m.      Registration and Family Lunch          Seegers Union\n1-4:30 p.m.           Meeting                           Seegers Union\n4:45-6 p.m.           Family Reception                    The Presidents House\n\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Study Abroad Information & Poster Fair": {
+        "StartDate": "9/11/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "9/11/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Do you think you might be interested in studying abroad next academic year (Fall 2020 or Spring 2021)? Attend the Study Abroad Information & Poster Fair on September 11th, anytime from 10am - 3pm in Seegers 111-113!\n Pick up the approved program list of over 160 different short- and long-term study abroad options;\n Speak with program, student, and faculty representatives;\n See students' posters about their experience; and\n Begin mentally preparing for the study abroad application deadline in December 2019.\n If you are an athlete, learn how you can continue your off-season workout regimen while abroad.\n\nFirst year students, Sophomores, and Juniors are welcome to attend, as are Faculty and Staff!",
+        "Location": "Seegers"
+    },
+    "Men's Soccer at Drew": {
+        "StartDate": "9/11/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/11/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Drew",
+        "Location": "Other"
+    },
+    "Women's Soccer at Moravian": {
+        "StartDate": "9/11/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/11/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Moravian",
+        "Location": "Other"
+    },
+    "Student and Alumni Networking Reception 2019 - New York City": {
+        "StartDate": "9/12/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "9/12/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 9/12/2019 6:30 PM to 8:30 PM\r\nNew York City - Students venture to the Big Apple to explore careers and meet alumni. Welcome them to the city!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Internship Registration Deadline": {
+        "StartDate": "9/13/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "9/13/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "n:Name: Carolyn BrownPhone: 484-664-3100Email: brown@muhlenberg.edu",
+        "Location": "Muhlenberg College"
+    },
+    "Mandatory Study Abroad Meeting - Final Session #3": {
+        "StartDate": "9/13/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/13/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "In order to study abroad during the Fall 2020 or Spring 2021 semesters, you MUST attend 1 of the 3 MANDATORY Meeting session times. The last session is today, September 13th, from 2 - 3 PM (Common Hour) in Trumbower 130.Receive a study abroad application and guidebook, learn how to make important academic and personal decisions to help find the best study abroad program for you, and hear the steps necessary to apply.",
+        "Location": "Trumbower"
+    },
+    "Opioid Overdose Recognition and Prevention Training": {
+        "StartDate": "9/13/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/13/2019",
+        "EndTime": "3:00 PM",
+        "Category": "All Categories",
+        "EventDesc": "A training event for members of MCEMS and PHAM in opioid overdose recognition and prevention to ensure that these groups are aware of th crisis and ready to deliver nalaxone, the opioid reversal medication, when faced with an opioid overdose.",
+        "Location": "Seegers"
+    },
+    "Volleyball hosts Buttermaker Tournament": {
+        "StartDate": "9/14/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "9/14/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball hosts Buttermaker Tournament: Mules vs. Penn State Abington, 10:00; vs. Stockton, 2:00",
+        "Location": "Life Sports Center"
+    },
+    "Chemistry Speaker - Efrain Rodriguez": {
+        "StartDate": "9/13/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "9/13/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Efrain Rodriguez from the University of Maryland will present Using Hydrogen Bonding to Prepare Functional Inorganic Materials.",
+        "Location": "Trumbower"
+    },
+    "Field Hockey vs. Gettysburg": {
+        "StartDate": "9/14/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/14/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Gettysburg",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Football at Dickinson": {
+        "StartDate": "9/14/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/14/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football at Dickinson",
+        "Location": "Other"
+    },
+    "AMC Movie Trip": {
+        "StartDate": "9/14/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "9/14/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "3:30pm-8:30pm\nAMC Saucon Valley\n\n$5 - includes transportation, movie ticket and small popcorn\n",
+        "Location": "Other"
+    },
+    "Men's Soccer vs. Centenary (N.J.)": {
+        "StartDate": "9/14/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/14/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Centenary (N.J.)",
+        "Location": "Varsity Field"
+    },
+    "Men's Golf at Frederick W. Anton III Memorial Invitational": {
+        "StartDate": "9/15/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "9/15/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf atFrederick W. Anton III Memorial Invitational",
+        "Location": "Other"
+    },
+    "Men's Golf at Moravian Weyhill Classic": {
+        "StartDate": "9/16/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/16/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf at Moravian Weyhill Classic",
+        "Location": "Other"
+    },
+    "Reading and Notetaking": {
+        "StartDate": "9/17/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Theatre, Dance or Music Study Abroad Programs": {
+        "StartDate": "9/16/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/16/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "TWO Sessions offered (5:00pm OR 6:30pm)Details about Theatre, Dance, and/or Music study abroad programs at: Accademia dellArte, Edge Hill University, Goldsmiths College, FSU: Theatre Academy London, Larry Singer Studios, and the Royal Conservatoire of ScotlandAttend one of two sessions at 5:00 or 6:30 PM.",
+        "Location": "Seegers"
+    },
+    "Repeat Study Abroad Information Session: theatre / Dance / Music Study Abroad Programs": {
+        "StartDate": "9/16/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "9/16/2019",
+        "EndTime": "7:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "If you are interested in studying abroad at a theater, dance, or music program during Fall 2020 or Spring 2021, please attend. This is a repeat of the same information session at 5:00pm.Details about Theater, Dance, and/or Music study abroad programs at: Accademia dellArte, Edge Hill University, Goldsmiths College, FSU: Theatre Academy London, Larry Singer Studios, and the Royal Conservatoire of ScotlandAttend one of the two sessions at 5:00 or 6:30pm.",
+        "Location": "Seegers"
+    },
+    "Study Abroad in Italy Information Session": {
+        "StartDate": "9/16/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "9/16/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "If you are interested in studying abroad in Italy during Fall 2020 or Spring 2021, attend this information session. Learn Italian! Complete college or major requirements.NOTE: (Theater and Dance students should attend the Theatre & Dance information sessions at 5:00 or 6:30pm.)",
+        "Location": "Seegers"
+    },
+    "Info Session, MILA to Spain and Morocco": {
+        "StartDate": "9/19/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/20/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "MILA Panama Trip Information Session": {
+        "StartDate": "9/25/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Pre-Health Freshman Meeting": {
+        "StartDate": "9/17/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/17/2019",
+        "EndTime": "7:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "This information session hosted by Cailin Pachter, Director of Health Professions Advising, is open to all students sin the Class of 2023 who may be interested in a career in medicine, dentistry, veterinary sciences, optometry, physical or occupational therapy.",
+        "Location": "Trumbower"
+    },
+    "Volleyball vs. Moravian": {
+        "StartDate": "9/17/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/17/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Moravian",
+        "Location": "Life Sports Center"
+    },
+    "General's Carvery": {
+        "StartDate": "9/18/2019",
+        "StartTime": "11:30 AM",
+        "EndDate": "9/18/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "The General's Carvery is back! Look for us outside the GQ on Wednesday, September 18th for a Smoked Beef on Weck Sandwich with house-made coleslaw.",
+        "Location": "Seegers"
+    },
+    "Spanish Table - La Mesa Espanola": {
+        "StartDate": "12/4/2019",
+        "StartTime": "2:30 PM",
+        "EndDate": "12/4/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "on Monday, Tuesday and Wednesday every week until 12/4/2019. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Soccer at DeSales": {
+        "StartDate": "9/18/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at DeSales",
+        "Location": "Other"
+    },
+    "Study broad Programs for Pre-Med & Pulic Health Majors Info. Session.": {
+        "StartDate": "9/18/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "A program-specific information session about study abroad programs in Fall 2020 or Spring 2021 that offer intriguing courses for students interested in the Pre-Med and Public Health fields: 5 PM, September 17th, Seegers Union 112.The Office of Global Education will discuss study abroad programs in Copenhagen, Glasgow, Stockholm, Botswana, India, Senegal, and Thailand, as well as several SIT field-based programs that focus on Global Health.",
+        "Location": "Seegers"
+    },
+    "History Club": {
+        "StartDate": "9/18/2019",
+        "StartTime": "5:30 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "6:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "The History Club is having it's first meeting this Wednesday, Sept. 18, from 5:30pm to 6:30pm in the History Suite on the 3rd floor of Ettinger. Open to all students. Snacks provided!",
+        "Location": "Ettinger"
+    },
+    "History Club Meeting": {
+        "StartDate": "9/18/2019",
+        "StartTime": "5:30 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "6:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "The History Club is having itss first meeting this Wednesday, Sept. 18, from 5:30pm to 6:30pm in the History Suite on the 3rd floor of Ettinger. Open to all students. Snacks provided!",
+        "Location": "Ettinger"
+    },
+    "Ronny Quevedo - Space of Play, Play of Space": {
+        "StartDate": "10/15/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/15/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "\"Tresspassing Across America\" - By Ken Ilgunas": {
+        "StartDate": "9/18/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "9/18/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Author, travel writer, and environmental advocate Ken Ilgunas will be presenting his talk \"Trespassing Across America\" on Wednesday, September 18th at 7:30 in the Event Space. The talk details his 2012 journey along the proposed path of the Keystone XL pipeline where he learned firsthand the state of climate science and denial in the heart of America.",
+        "Location": "Seegers"
+    },
+    "The Art of the Interview": {
+        "StartDate": "9/19/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/19/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Pulitzer finalist Jeffrey Fleishman shares insights into good writing, 2 p.m. in Seegers 109. He has advice for budding writers, from interviews with the likes of Denzel Washington and Ethan Hawke, as LA Times foreign correspondent, cultural wars beat writer and author of three novels. Read More.",
+        "Location": "Seegers"
+    },
+    "Homecoming Pep Rally": {
+        "StartDate": "9/19/2019",
+        "StartTime": "9:00 PM",
+        "EndDate": "9/19/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Homecoming Pep Rally at 9:00pm in Memorial Hall\nGet hyped with our fall athletic teams and win great prizes. Special performances by Muhlenberg's finest dance teams.",
+        "Location": "Muhlenberg College"
+    },
+    "Alumni Weekend 2019": {
+        "StartDate": "9/20/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "9/22/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 9/20/2019 to 9/22/2019\r\nReturn to campus on September 20-22 for Alumni Weekend. Click here to register, see a schedule of activities, visit your class page and more!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Fall 2019 Final Exam Schedule Available": {
+        "StartDate": "9/20/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "9/20/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "n:Name: Carolyn BrownPhone: 484-664-3100Email: brown@muhlenberg.edu",
+        "Location": "Muhlenberg College"
+    },
+    "Borders & Immigration - Current Challenges and Consitiutional Concerns": {
+        "StartDate": "9/20/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/20/2019",
+        "EndTime": "3:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "This Constitution Day panel discussion will feature Theresa Cardinal Brown, director of immigration and cross-border policy for the Bipartisan Policy Center, and pending final details, one additional guest. The panel will be moderated by a member of the political science department and discuss a range of important policy concerns affecting immigration in the contemporary American political context.",
+        "Location": "Moyer"
+    },
+    "French Table - La Table Francaise": {
+        "StartDate": "12/6/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "12/6/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Cross Country at Main Line Invitational": {
+        "StartDate": "9/20/2019",
+        "StartTime": "4:30 PM",
+        "EndDate": "9/20/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at Main Line Invitational",
+        "Location": "Other"
+    },
+    "An Evening of Distinction 2019": {
+        "StartDate": "9/20/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/20/2019",
+        "EndTime": "10:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 9/20/2019 7:00 PM to 10:30 PM\r\nJoin us as we recognize the philanthropic support of those in the Henry Melchior Muhlenberg Society and celebrate our newest Alumni Achievement Award recipients. \r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Homecoming Dance": {
+        "StartDate": "9/20/2019",
+        "StartTime": "10:00 PM",
+        "EndDate": "9/20/2019",
+        "EndTime": "11:59 PM",
+        "Category": "Student Life",
+        "EventDesc": "Homecoming Dance at 10:00pm in the Great Room.\nHosted by the Class of 2020, the Homecoming Dance brings students and young alumni together to mix, mingle, and bust a move. Free food and drink. Beer and wine for 21+.",
+        "Location": "Seegers"
+    },
+    "Women's Golf at Gettysburg Fall Invitational": {
+        "StartDate": "9/22/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "9/22/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Golf at Gettysburg Fall Invitational",
+        "Location": "Other"
+    },
+    "Field Hockey at Franklin & Marshall": {
+        "StartDate": "9/21/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "West End World of Food Festival": {
+        "StartDate": "9/21/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "11:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "West End World of Food Festival is an annual celebration produced by the West End Alliance. It takes place in the 19th Street Theatre District. Food, artisans, musical performance and kids activities fill the roster for the day.   \n",
+        "Location": "Other"
+    },
+    "Football vs. Susquehanna": {
+        "StartDate": "9/21/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. Susquehanna",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Homecoming Football Game": {
+        "StartDate": "9/21/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Homecoming Football Game at 1:00pm at Scotty Wood Stadium.\nStudents can stop by the Student Engagement tent for a free Homecoming T-shirt!",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Scotty Wood Stadium"
+    },
+    "Volleyball at Franklin & Marshall": {
+        "StartDate": "9/21/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Men's Soccer at Franklin & Marshall": {
+        "StartDate": "9/21/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Women's Soccer at Franklin & Marshall": {
+        "StartDate": "9/21/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Homecoming Bonfire": {
+        "StartDate": "9/21/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "9/21/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "Homecoming Bonfire at 8:00pm on Trexler Library Lawn.\nCelebrate the end of the week by the warmth of our first bonfire of the year.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler Library"
+    },
+    "Women's Tennis at Moravian with DeSales": {
+        "StartDate": "9/22/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "9/22/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Tennis at Moravian with DeSales",
+        "Location": "Other"
+    },
+    "Men's Tennis at DeSales with Moravian": {
+        "StartDate": "9/22/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/22/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Tennis at DeSales with Moravian",
+        "Location": "Other"
+    },
+    "Deadline: Summer Incomplete Grades to Registrar": {
+        "StartDate": "9/23/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "9/23/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Strategies for Studying the Sciences": {
+        "StartDate": "9/24/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Study Abroad Programs in the British Isles": {
+        "StartDate": "9/23/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/23/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Information Session about Fall 2020 and Spring 2021 study abroad programs in England, Scotland and Ireland. (Media & Communication and Film Studies majors should attend the Dublin Program meeting at 7:00 pm on 9/23.)",
+        "Location": "Seegers"
+    },
+    "Study abroad Internship Program in D.C.: Lutheran College Washington Semester": {
+        "StartDate": "9/23/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/23/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Information session about the off-campus study program, Lutheran College Washington Semester (LCWS), that includes a professional internship in Washington, D.C.",
+        "Location": "Seegers"
+    },
+    "Muhlenberg College Dublin Study Abroad & Internship Program": {
+        "StartDate": "9/23/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/23/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Information session about The Muhlenberg College Dublin Program for Media & Communication and Film Studies majors who want to study abroad and have the opportunity to do a related internship in Dublin, Ireland.",
+        "Location": "Seegers"
+    },
+    "Dance Emerge 2020": {
+        "StartDate": "9/25/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Berg Fringe": {
+        "StartDate": "9/25/2019",
+        "StartTime": "9/25/2019",
+        "EndDate": "",
+        "EndTime": "",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Women's Soccer at Haverford": {
+        "StartDate": "9/25/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Haverford",
+        "Location": "Other"
+    },
+    "Study Abroad Programs in Israel": {
+        "StartDate": "9/25/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about study abroad options at universities in Israel",
+        "Location": "Seegers"
+    },
+    "Study Abroad Programs in Aftica and Jordan": {
+        "StartDate": "9/25/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about study abroad programs in Jordan, South Africa, Senegal, Morocco, Ghana, and Botswana. Wednesday, 9/25, in Seegers 112 from 6:00 - 7:00 PM.",
+        "Location": "Seegers"
+    },
+    "Field Hockey at Haverford": {
+        "StartDate": "9/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Haverford",
+        "Location": "Other"
+    },
+    "Hooking Up, Pleasure, and Creating Culture a talk with Delta Zeta and Jules Purnell": {
+        "StartDate": "9/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Delta Zeta and Jules Purnell are hosting an open \r\nevent involving \n'Hooking Up, Pleasure, and Creating Culture. \n\r\nThose who attend will be engaged in the \r\ndiscussion in culture of nurturance, sex positivity \r\nand ways to communicate. Come learn how this \r\nculture is created and shaped individually, and \r\nhere atMuhlenberg!\nJoin us on Wednesday September 25 \r\nat 7-8pm in the Event Space!",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Soccer vs. Misericordia": {
+        "StartDate": "9/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Misericordia",
+        "Location": "Varsity Field"
+    },
+    "Study bBroad Programs in Oceania and Asia": {
+        "StartDate": "9/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about study abroad programs in Oceania (Australia, New Zealand, and Fiji) and in East/Southeast/South Asia (China, Japan, South Korea, India, and Thailand). Wednesday, 9/25, in Seegers 112 from 7:00 - 8:00 PM.For independent research and internship opportunities, attend the SIT/SFS/SEA meeting on 10/3.",
+        "Location": "Seegers"
+    },
+    "Volleyball at Haverford": {
+        "StartDate": "9/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/25/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Haverford",
+        "Location": "Other"
+    },
+    "The Importance of Being Earnest": {
+        "StartDate": "9/29/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/29/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Flint's Deadly Water": {
+        "StartDate": "9/27/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "9/27/2019",
+        "EndTime": "3:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "This free documentary screening of a new PBS FRONTLINE investigation, Flints Deadly Water, is the result of two years of on-the-ground reporting to examine the true toll of the Flint water crisis. \"What they found reveals how a public health disaster thats become known forthe lead poisoning of thousands of children also spawned one of the largestoutbreaks of Legionnaires disease in U.S. history. The screening will be followed by a Q&A with several of the participants in the documentary.",
+        "Location": "Shankweiler"
+    },
+    "Men's Golf at Mason-Dixon Collegiate Classic": {
+        "StartDate": "9/29/2019",
+        "StartTime": "8:00 AM",
+        "EndDate": "9/29/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf at Mason-Dixon Collegiate Classic",
+        "Location": "Other"
+    },
+    "Field Hockey vs. Dickinson": {
+        "StartDate": "9/28/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Dickinson",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Football at Juniata": {
+        "StartDate": "9/28/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football at Juniata",
+        "Location": "Other"
+    },
+    "Volleyball vs. Dickinson and DeSales": {
+        "StartDate": "9/28/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Dickinson, 12:00; vs. DeSales, 4:00",
+        "Location": "Life Sports Center"
+    },
+    "MADIGAN FACULTY RECITAL": {
+        "StartDate": "9/28/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Lauren Curnow Madigan, mezzo-soprano, accompanied by Vincent Trovato, piano.\n\n\n\n",
+        "Location": "Center for the Arts"
+    },
+    "Women's Soccer vs. Dickinson": {
+        "StartDate": "9/28/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Dickinson",
+        "Location": "Varsity Field"
+    },
+    "Men's Soccer vs. Swarthmore": {
+        "StartDate": "9/28/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "9/28/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Swarthmore",
+        "Location": "Varsity Field"
+    },
+    "Memory and Test Preparation": {
+        "StartDate": "10/1/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "10/2/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Golf at John Makuvek Cup": {
+        "StartDate": "10/1/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/1/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf at John Makuvek Cup",
+        "Location": "Other"
+    },
+    "Field Hockey at Moravian": {
+        "StartDate": "10/1/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/1/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Moravian",
+        "Location": "Other"
+    },
+    "Women's Soccer at Alvernia": {
+        "StartDate": "10/1/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/1/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Alvernia",
+        "Location": "Other"
+    },
+    "LVAIC CSAM Keynote and Panel": {
+        "StartDate": "10/2/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "10/2/2019",
+        "EndTime": "12:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "October is Cyber Security Awareness Month! LVAIC is hosting a kick-off program to allow for informative discussion of pertinent topics in the cyber security realm. This program will include a keynote address and a panel of LVAIC cybersecurity experts.Those intending to participate in this event virtually can use this  link to log on during the time of the event, October 2 from 10am-12pm: https://video.ibm.com/channel/moravianlive",
+        "Location": "Other"
+    },
+    "Study Abroad Programs in France & Francophone Africa": {
+        "StartDate": "10/2/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "10/2/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about study abroad options in France, Morocco, and Senegal. Learn which programs will help you become fluent in French.(For independent research and internship opportunities, attend the SIT meeting on October 3.)",
+        "Location": "Seegers"
+    },
+    "1st STUDENT RECITAL": {
+        "StartDate": "2/5/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "2/5/2020",
+        "EndTime": "7:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Students of Applied Music perform.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Soccer vs. Haverford": {
+        "StartDate": "10/2/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/2/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Haverford",
+        "Location": "Varsity Field"
+    },
+    "Study Abroad Programs in Spain & Latin America": {
+        "StartDate": "10/2/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/2/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "A 7 PM program-specific information session in Seegers 112 about study abroad programs in Spain and several countries in Latin America (Argentina, Chile, Costa Rica, Cuba, Ecuador, Mexico, Peru, and Puerto Rico).For field research and internship opportunities, attend the SIT/SFS meeting on October 3.",
+        "Location": "Seegers"
+    },
+    "Volleyball vs. Scranton": {
+        "StartDate": "10/2/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/2/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Scranton",
+        "Location": "Life Sports Center"
+    },
+    "Additional Study Abroad Programs in Europe": {
+        "StartDate": "10/3/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "10/3/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about studying abroad in various European countries: Austria, Belgium, Czech Republic, Denmark, Germany, Greece, Hungary, Netherlands, Russia & Sweden. THURSDAY, OCT. 3, at 5:00 PM in Seegers 112.(For independent research and internship opportunities, attend the SIT meeting later at 7:00 PM.)",
+        "Location": "Seegers"
+    },
+    "SIT/SFS/SEA Study Abroad Programs with Field-Based Research": {
+        "StartDate": "10/3/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/3/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Program-specific information session about study abroad programs all over the world that emphasize field based research and hands-on learning. Gain independent research or internship experience. THURSDAY, OCT. 3, at 7:00 PM in Seegers 112.",
+        "Location": "Seegers"
+    },
+    "Conversation with Trish Donnelly '88": {
+        "StartDate": "10/3/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "10/3/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Join us 10/03 at 7;30 p.m. for a conversation with Trish Donnelly 88, chief executive officer of Urban Outfitters Group. Associate Professor of Business Roland Kushner will interview Donnelly on her career path, and Donnelly will ask questions of the audience.",
+        "Location": "Seegers"
+    },
+    "Men's Tennis at ITA Southeast Regional": {
+        "StartDate": "10/5/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "10/5/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Tennis at ITA Southeast Regional",
+        "Location": "Other"
+    },
+    "Study Abroad in Barcelona, Spain, Fall 2020 Sessions": {
+        "StartDate": "11/19/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "11/20/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Chemistry Speaker - Yan Kung": {
+        "StartDate": "10/4/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "10/4/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Yan Kung from Bryn Mawr College will present Caught in the Act: Crystallographic Snapshots of Mevalonate Pathway Enzymes in Action.",
+        "Location": "Trumbower"
+    },
+    "Field Hockey at Montclair State": {
+        "StartDate": "10/4/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/4/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Montclair State",
+        "Location": "Other"
+    },
+    "Women's Golf at All-American Fall Invitational": {
+        "StartDate": "10/5/2019",
+        "StartTime": "9:30 AM",
+        "EndDate": "10/5/2019",
+        "EndTime": "2:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Golf at All-American Fall Invitational",
+        "Location": "Other"
+    },
+    "Men's Golf at Montgomery Cup": {
+        "StartDate": "10/6/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "10/6/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf at Montgomery Cup",
+        "Location": "Other"
+    },
+    "Cross Country at Paul Short Run": {
+        "StartDate": "10/5/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "10/5/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at Paul Short Run",
+        "Location": "Other"
+    },
+    "Football at Franklin & Marshall": {
+        "StartDate": "10/5/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/5/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Men's Soccer at Johns Hopkins": {
+        "StartDate": "10/5/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/5/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Johns Hopkins",
+        "Location": "Other"
+    },
+    "AN AFTERNOON OF VOCAL MUSIC": {
+        "StartDate": "10/6/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "10/6/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Featuring works by faculty member Darin Lewis. Darin Lewis, piano; Ellen Zimmer, soprano; Rachelle Fleming, soprano; Christopher Jackson, bass & Brian Ming Chu, baritone.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Golf hosts Muhlenberg Invitational": {
+        "StartDate": "10/7/2019",
+        "StartTime": "12:30 PM",
+        "EndDate": "10/7/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Golf hosts Muhlenberg Invitational",
+        "Location": "Lehigh Country Club"
+    },
+    "Women's Soccer vs. Bryn Mawr": {
+        "StartDate": "10/8/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "10/8/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Bryn Mawr",
+        "Location": "Varsity Field"
+    },
+    "Yom Kippur": {
+        "StartDate": "10/8/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "10/9/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academic Calendar",
+        "EventDesc": "Tuesday, October 8 at conclusion of day classes through day classes Wednesday, October 9",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Soccer at Moravian": {
+        "StartDate": "10/9/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/9/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Moravian",
+        "Location": "Other"
+    },
+    "Field Hockey vs. Bryn Mawr": {
+        "StartDate": "10/9/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "10/9/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Bryn Mawr",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Chemistry Speaker - Gavin Sacks": {
+        "StartDate": "10/10/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/10/2019",
+        "EndTime": "2:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Gavin Sacks from Cornell University will present Wild for Wine: An Analytical Flavor Chemistry Perspective on Developing More Sustainable Grape Varieties for Winemakers.",
+        "Location": "Trumbower"
+    },
+    "Volleyball vs. Bryn Mawr": {
+        "StartDate": "10/10/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/10/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Bryn Mawr",
+        "Location": "Life Sports Center"
+    },
+    "Fall Break": {
+        "StartDate": "10/12/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/13/2019",
+        "EndTime": "Midnight",
+        "Category": "Academic Calendar",
+        "EventDesc": "No classes Monday",
+        "Location": "Muhlenberg College"
+    },
+    "Women's Golf at Revolutionary Collegiate Classic": {
+        "StartDate": "10/13/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "10/13/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Golf at Revolutionary Collegiate Classic",
+        "Location": "Other"
+    },
+    "Volleyball at Johns Hopkins": {
+        "StartDate": "10/12/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "10/12/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Johns Hopkins, 12:00; vs. Mary Washington, 2:00",
+        "Location": "Other"
+    },
+    "Field Hockey at Johns Hopkins": {
+        "StartDate": "10/12/2019",
+        "StartTime": "12:30 PM",
+        "EndDate": "10/12/2019",
+        "EndTime": "2:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Johns Hopkins",
+        "Location": "Other"
+    },
+    "Men's Soccer vs. Gettysburg": {
+        "StartDate": "10/12/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/12/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Gettysburg",
+        "Location": "Varsity Field"
+    },
+    "Wescoe School Commencement": {
+        "StartDate": "10/12/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/12/2019",
+        "EndTime": "3:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Commencement Ceremony",
+        "Location": "Chapel"
+    },
+    "Women's Soccer at Johns Hopkins": {
+        "StartDate": "10/12/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "10/12/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Johns Hopkins",
+        "Location": "Other"
+    },
+    "Italian Table - Chiacchiere / La Tavola Italiana": {
+        "StartDate": "12/2/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "12/2/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Volleyball vs. Ursinus": {
+        "StartDate": "10/16/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "10/16/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Ursinus",
+        "Location": "Life Sports Center"
+    },
+    "Pizza With a Purpose - Chicago": {
+        "StartDate": "10/16/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "10/16/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 10/16/2019 6:30 PM to 8:30 PM\r\nShare your stories of persistence and inspiration to help current 'Berg students while you enjoy local slices with fellow alumni! Please note that this event has been cancelled for tonight. Check back for information on future events in the Chicago area.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Info Session by Salus University Admissions for Post-Bac programs in Health Professions": {
+        "StartDate": "10/17/2019",
+        "StartTime": "5:00 AM",
+        "EndDate": "10/17/2019",
+        "EndTime": "6:30 AM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Monica Scirrotto, Director of Admissions, Salus University will be visiting campus to talk about  PostBaccalaureate programs in Optometry,  Speech Pathology,  Physicians Assistant,  Public Health, and Occupational Therapy.",
+        "Location": "Seegers"
+    },
+    "Field Hockey vs. Ursinus": {
+        "StartDate": "10/17/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "10/17/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Ursinus",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Women's Soccer vs. Ursinus": {
+        "StartDate": "10/17/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/17/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Ursinus",
+        "Location": "Varsity Field"
+    },
+    "Mid-Semester Grades Due": {
+        "StartDate": "10/18/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/18/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Save Money on Alumni Travel to Greece": {
+        "StartDate": "10/18/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/29/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 10/18/2019 to 10/29/2019\r\nLIMITED TIME OFFER through October 29, 2019. \r\nBook now and save up to $500 per person on Muhlenberg's alumni trip to Greece - Athens & Poros, October 8 - 17, 2020. Click here to review the trip details and savings. Be sure to mention that you received a special paperless savings offer.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Zoom session: About Zoom": {
+        "StartDate": "10/18/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "10/18/2019",
+        "EndTime": "12:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "We are repeating our September session about Zoom for those who could not attend in person. This time, however, we are utilizing Zoom to facilitate the training. So, from your office, from home, etc., you can join us to learn all about Zoom, in Zoom.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Online"
+    },
+    "FLUTE MASTER CLASS": {
+        "StartDate": "10/18/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/18/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Guest Artist, Christine Moulton, presents a Master Class with Muhlenberg Music Department Flute Students.",
+        "Location": "Center for the Arts"
+    },
+    "Walk-In Hours for Study Abroad Questions (ABroad Spring 2020/ Fall 2020 / Spring 2021)": {
+        "StartDate": "10/18/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/18/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Do you have questions about studying abroad next semester or next school year? Did you miss any of the study abroad information, program-specific, or mandatory meetings? Then, visit the Office of Global Education from 2-4:30 PM on Friday, 10/18, to ask specific questions or receive handouts.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104"
+    },
+    "Football vs. Ursinus": {
+        "StartDate": "10/18/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/18/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. Ursinus",
+        "Location": "Scotty Wood Stadium"
+    },
+    "GUEST ARTIST CONCERT": {
+        "StartDate": "10/18/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "10/18/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Christine Moulton, flute.",
+        "Location": "Chapel"
+    },
+    "Cross Country at Gettysburg Invitational": {
+        "StartDate": "10/19/2019",
+        "StartTime": "10:30 AM",
+        "EndDate": "10/19/2019",
+        "EndTime": "12:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at Gettysburg Invitational",
+        "Location": "Other"
+    },
+    "Muhlenberg College Fall Festival": {
+        "StartDate": "10/19/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "10/19/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "MUHLENBERG COLLEGE FALL FESTIVAL - All are invited to celebrate! Free fall activities and treats on Saturday, October 19 from 11 am to 1 pm in Parents Plaza. Rain location: Seegers Union. Enjoy games, performances and hayrides, too!",
+        "Location": "Seegers"
+    },
+    "Volleyball vs. Gettysburg": {
+        "StartDate": "10/19/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/19/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Gettysburg",
+        "Location": "Life Sports Center"
+    },
+    "Men's Soccer vs. Ursinus": {
+        "StartDate": "10/19/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "10/19/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Ursinus",
+        "Location": "Varsity Field"
+    },
+    "Women's Soccer vs. Gettysburg": {
+        "StartDate": "10/19/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/19/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Gettysburg",
+        "Location": "Varsity Field"
+    },
+    "Meet & Greet w/ Chef Vandomme": {
+        "StartDate": "10/21/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/21/2019",
+        "EndTime": "3:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "MEET AND GREET with GLOBAL FRENCH CHEF VANDOMME",
+        "Location": "Seegers"
+    },
+    "Trexler Library Trivia Night": {
+        "StartDate": "10/21/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/21/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Trexler Library invites students, faculty and staff to participate in a spirited competition of trivia. Create your team of 3-6 players and come register at the Librarys Lending Services Desk or through our webpage at trexler.muhlenberg.edu beginning Sunday, October 13th. Individual and team prizes will be awarded.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler Library"
+    },
+    "Muhlenberg College Welcomes Tony Jack": {
+        "StartDate": "10/22/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/22/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 10/22/2019 7:00 PM to 8:00 PM\r\nYou are invited to join us on campus for a lecture with Tony Jack, author of \"The Privileged Poor: How Elite Colleges are Failing Disadvantaged Students.\"\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Volleyball vs. Penn State Berks": {
+        "StartDate": "10/22/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/22/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Penn State Berks",
+        "Location": "Life Sports Center"
+    },
+    "Field Hockey vs. Gwynedd Mercy": {
+        "StartDate": "10/22/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "10/22/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Gwynedd Mercy",
+        "Location": "Scotty Wood Stadium"
+    },
+    "2nd STUDENT RECITAL": {
+        "StartDate": "2/26/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "2/26/2020",
+        "EndTime": "7:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Students of Applied Music perform.",
+        "Location": "Center for the Arts"
+    },
+    "Ieva Jusionyte: \"Injury and Rescue on the U.S.-Mexico Border\"": {
+        "StartDate": "10/23/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/23/2019",
+        "EndTime": "8:45 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Ieva Jusionyte is assistant professor of anthropology and social studies at Harvard University. Her research and teaching interests lie at the intersection of political-legal and medical anthropology, with a focus on the study of state power and the materiality of violence; law and criminalized livelihoods; discourses and infrastructures of security; technologies of injury; politics and ethics of representation; and ethnography as method and storytelling.",
+        "Location": "Moyer"
+    },
+    "Pizza With a Purpose - Philadelphia": {
+        "StartDate": "10/24/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "10/24/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 10/24/2019 6:00 PM to 8:00 PM\r\nShare your stories of persistence and inspiration to help current 'Berg students while you enjoy local slices with fellow alumni!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Study Abroad Information Meeting: SAI Programs in Italy": {
+        "StartDate": "10/24/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/24/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Information meeting for students interested in studying abroad next year in Italy at one of the SAI Study Abroad Programs in Florence, Rome, Siena, or Milan. The Vice President for Academic Affairs at SAI Programs will discuss the programs and student services available at the different SAI locations in Italy, including the academics and special certificate programs, housing options, city life, internship opportunities, & SAI excursions.",
+        "Location": "Moyer"
+    },
+    "Spring 2020 Course Schedule Available": {
+        "StartDate": "10/25/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/25/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "A Career in Public Health Service": {
+        "StartDate": "10/25/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/25/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Epidemiologist Nakia S. Clemmons, MPH, REHS Lieutenant, US Public Health Service, will give a presentation by video conference on her career in public health service.Among other highlights, she will describe her work with the U.S. Army's Public Health Command and her investigation of the 2015 Disneyland measles outbreak for the U.S. Centers for Disease Control and Prevention. She will also participate in a Q&A with students regarding possible career paths in public health service.",
+        "Location": "Shankweiler"
+    },
+    "Volleyball at McDaniel": {
+        "StartDate": "10/25/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/25/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at McDaniel",
+        "Location": "Other"
+    },
+    "INTO THE WOODS": {
+        "StartDate": "11/3/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/3/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Women's Soccer at McDaniel": {
+        "StartDate": "10/26/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "10/26/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at McDaniel",
+        "Location": "Other"
+    },
+    "Football at McDaniel": {
+        "StartDate": "10/26/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "10/26/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football at McDaniel",
+        "Location": "Other"
+    },
+    "Men's Soccer at McDaniel": {
+        "StartDate": "10/26/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "10/26/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at McDaniel",
+        "Location": "Other"
+    },
+    "Field Hockey at McDaniel": {
+        "StartDate": "10/26/2019",
+        "StartTime": "6:30 PM",
+        "EndDate": "10/26/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at McDaniel",
+        "Location": "Other"
+    },
+    "Amy-Jill Levine: \"On Different Grounds: Jewish and Christian Foundation for Engaging the Middle East": {
+        "StartDate": "10/27/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "10/27/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "A.-J. Levine is university professor of New Testament and Jewish studies, Mary Jane Werthan Professor of Jewish Studies and professor of New Testament studies at Vanderbilt Divinity School and College of Arts and Science. She is an internationally prominent public speaker on Christian-Jewish relations, an instructor in the Great Courses series and a consultant to the Vatican and the World Council of Churches. Her books include The Misunderstood Jew: The Church and the Scandal of the Jewish Jesus and Short Stories by Jesus: The Enigmatic Parables of a Controversial Rabbi. She is the co-editor, with Marc Z. Brettler, of the Jewish Annotated New Testament.",
+        "Location": "Moyer"
+    },
+    "Midterm Reboot": {
+        "StartDate": "10/29/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "10/30/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Pizza With a Purpose - Boston": {
+        "StartDate": "10/28/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "10/28/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 10/28/2019 6:00 PM to 8:00 PM\r\nShare your stories of persistence and inspiration to help current 'Berg students while you enjoy local slices with fellow alumni!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Deadline: \"W\" Grades (Course Withdrawals)": {
+        "StartDate": "10/29/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/29/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Last Day to report Final Exam Conflicts": {
+        "StartDate": "10/29/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "10/29/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Field Hockey at Swarthmore": {
+        "StartDate": "10/29/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/29/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey at Swarthmore",
+        "Location": "Other"
+    },
+    "Women's Soccer at Swarthmore": {
+        "StartDate": "10/30/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "10/30/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at Swarthmore",
+        "Location": "Other"
+    },
+    "Day of the Dead Activity": {
+        "StartDate": "10/30/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/30/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "Join the Spanish Club on Wed. Oct. 30th to take part of Day of the Dead Activities: Coco at 7:00 pm in Ett. 103, LC Commons - Light Refreshments. Poster attached.",
+        "Location": "Ettinger"
+    },
+    "Men's Soccer at Dickinson": {
+        "StartDate": "10/30/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/30/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Dickinson",
+        "Location": "Other"
+    },
+    "Volleyball at Swarthmore": {
+        "StartDate": "10/30/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "10/30/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball at Swarthmore",
+        "Location": "Other"
+    },
+    "Study Abroad First Year Information Meeting": {
+        "StartDate": "10/31/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "10/31/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "For First Year Students ONLY: Study Abroad Info. Meeting on 10/31 for First Year students to learn about Muhlenberg's general study abroad process, the types of study abroad programs available, the courses they should or should not take abroad, and how they should apply during their Sophomore year.",
+        "Location": "Trumbower"
+    },
+    "3rd STUDENT RECITAL": {
+        "StartDate": "3/20/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "3/20/2020",
+        "EndTime": "3:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Students of Applied Music perform.",
+        "Location": "Center for the Arts"
+    },
+    "Conflict Without Contempt": {
+        "StartDate": "11/1/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/1/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Conflict is often presented as a negative experience to avoid, and yet conflict is a part of every persons life. What can we discover about ourselves and others when we reframe conflict as an opportunity for learning, relationship building, social justice and creativity? This talk will focus on ways to re-think conflict, through the lens of Gandhi and King as well as through the frameworks of systems thinking and restorative justice.",
+        "Location": "Hoffman House"
+    },
+    "Chemistry Speaker - Kenneth Knappenberger": {
+        "StartDate": "11/1/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "11/1/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Kenneth Knappenberger from The Pennsylvania State University will present Light-Harvesting Metals Studied Using Laser Spectroscopy.",
+        "Location": "Trumbower"
+    },
+    "Halloween Haunt & Bash": {
+        "StartDate": "11/1/2019",
+        "StartTime": "9:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "2:00 AM",
+        "Category": "Student Life",
+        "EventDesc": "OML Presents: \nHalloween Haunt & Bash!\n\r\nThe office of multicultural life is throwing \r\na halloween party on November 1st! \r\nThere will be food, music, activities, \r\na costume contest, and a lot of spooky fun.\n\r\n**This is a dry event, no alcohol is permitted**",
+        "Location": "Muhlenberg College"
+    },
+    "SGA Tailgate": {
+        "StartDate": "11/2/2019",
+        "StartTime": "10:30 AM",
+        "EndDate": "11/2/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "SGA Tailgate\n\r\nCome celebrate the John Hopkins game \r\nwith SGA at our tailgate this coming \nSaturday, November 2nd from \r\n10:30am-1pm outside Victors Lament. \r\nFree food, free t-shirts, poster making,\r\nand BYOB drinking for anyone 21+. \r\nHope to see you there! \n\r\nThank you to Student Activities Office \r\nfor their partnership!\n\n\n\n\nCome celebrate the John Hopkins game with SGA at our tailgate this coming Saturday, November 2nd from 10:30am-1pm outside Victors Lament. Free food, free t-shirts, poster making, and BYOB drinking for anyone 21+. Hope to see you there! Thank you to Student Activities Office for their partnership!\n\n\n\n",
+        "Location": "Muhlenberg College:  Chew Street - College Green"
+    },
+    "Cross Country at Centennial Conference Championships": {
+        "StartDate": "11/2/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "11/2/2019",
+        "EndTime": "12:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at Centennial Conference Championships (Gettysburg)",
+        "Location": "Other"
+    },
+    "FAMILY WEEKEND CHOIR CONCERT": {
+        "StartDate": "11/2/2019",
+        "StartTime": "11:30 AM",
+        "EndDate": "11/2/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Christopher Jackson.",
+        "Location": "Chapel"
+    },
+    "Volleyball vs. Washington College": {
+        "StartDate": "11/2/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Volleyball vs. Washington College",
+        "Location": "Life Sports Center"
+    },
+    "Football vs. Johns Hopkins": {
+        "StartDate": "11/2/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. Johns Hopkins",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Women's Soccer vs. Washington College": {
+        "StartDate": "11/2/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Washington College",
+        "Location": "Varsity Field"
+    },
+    "Men's Soccer vs. Washington College": {
+        "StartDate": "11/2/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Washington College",
+        "Location": "Varsity Field"
+    },
+    "Field Hockey vs. Washington College": {
+        "StartDate": "11/2/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Field Hockey vs. Washington College",
+        "Location": "Scotty Wood Stadium"
+    },
+    "TED CONNER JAZZ QUARTET": {
+        "StartDate": "11/2/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/2/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Music faculty member Ted Conner and alumni guests.",
+        "Location": "Chapel"
+    },
+    "Spring 2020 registration opens for Seniors": {
+        "StartDate": "11/4/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/4/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "30 Years After the Berlin Wall: Looking Back, Looking Forward": {
+        "StartDate": "11/4/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "11/4/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Kaffee und Kultur / Coffee and Culture. Join the German Studies Program as Dr.Franz Birgel and Dr. Julie Shoults present a brief history of the Berlin Wall and discuss the lasting impact of a divided Germany 30 years after the fall of the Wall. Coffee and snacks provided.",
+        "Location": "Ettinger"
+    },
+    "Cheese and Olive Oil Tasting": {
+        "StartDate": "11/4/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "11/4/2019",
+        "EndTime": "6:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "Cheese and Olive Oil Tasting\nMonday, Nov. 4th at 5:00-6:30\n\r\nJoin the French and Italian clubs\r\nto journey through France and \r\nItaly via cheese and olive oil.\n\r\nStudents, sign up using this link: https://docs.google.com/forms/d/1xbHTZzDDQ8qqJgLsdkAuK3c4PGKciBzEvS6lAtP41PI/edit\n\r\nFaculty, emailjonalieberman@muhlenberg.edu\n\r\nSpace is limited! Make sure to sign up!",
+        "Location": "Ettinger"
+    },
+    "Baking with Representative Susan Wild": {
+        "StartDate": "11/4/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/4/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Student Life",
+        "EventDesc": "Baking with Representative Susan Wild\r\nMonday, Nov 4th,7:30pm - 8:30pm\r\nHillel House\n\r\nRepresentative Susan Wild is coming to \r\nMuhlenberg to speak about food insecurity \r\nand financial hardships as well as bake \r\nchallah with us! \r\nThere will be a Q&A session, presentations, \r\nsnacks, and lots of baking! \r\nThis event is presented by Challah for Hunger, \r\nBergVotes, and Muhlenberg Hillel. \r\nCan't wait to see you there!",
+        "Location": "Muhlenberg College:  Chew Street - Hillel House2238 Chew St"
+    },
+    "JAZZ IMPROV CONCERT": {
+        "StartDate": "4/7/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/7/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Ted Conner.",
+        "Location": "Center for the Arts"
+    },
+    "Spring 2020 registration opens for Juniors": {
+        "StartDate": "11/6/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/6/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Sprint 2020 registration opens for Sophomores": {
+        "StartDate": "11/6/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/6/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "VoiceThread": {
+        "StartDate": "11/6/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "11/6/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "This in-person session will connect the Muhlenberg College faculty and staff community with an expert trainer from VoiceThread. Learn about this innovative collaborative tool and updates to it in this one-hour session.",
+        "Location": "Ettinger"
+    },
+    "Pizza With a Purpose - New York City": {
+        "StartDate": "11/6/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/6/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/6/2019 6:00 PM to 8:00 PM\r\nShare your stories of persistence and inspiration to help current 'Berg students while you enjoy local slices with fellow alumni.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "SUNY Optometry Admissions Presentation": {
+        "StartDate": "11/6/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/6/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Zachary Levin-Epstein, Sr AdmissionsCounselor for SUNY College of Optometry, NYC, will present on the field of optometry, admission process, and the College.Hosted by the Health Professions Advising Office.",
+        "Location": "Seegers"
+    },
+    "Faculty Author Reception": {
+        "StartDate": "11/7/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "11/7/2019",
+        "EndTime": "5:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Please join us in the Trexler Library Main Concourse as we celebrate recent publications from the following Muhlenberg faculty: Dr. Thomas Cartelli, Professor of English & Film Studies, Dr. Maura Finkelstein, Assistant Professor of Anthropology, Dr. Michael Huber, Professor of Mathematics, Dr. Eduardo Olid Guerrero, Associate Professor of Languages, Literatures & Cultures, Dr. Katherine Richmond, Associate Professor of Psychology and Director of Women's & Gender Studies, and Dr. David Tafler, Professor of Media & Communication. Hors d'oeuvres and beverages will be served. \n",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler Library"
+    },
+    "Information Session for Prospective Adult Students": {
+        "StartDate": "11/7/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "11/7/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Join Us for an Information Session Open HouseThursday, November 7, 2019, 4-7 p.m.Learn About Our 25+ Programs: Accelerated Degrees & Traditional Bachelor's Degrees, Teacher Certification, Associate's Degree, Major/Concentration Certificates including Project Management and Data Analytics.*Meet with an academic advisor*Discuss degree and career paths*Take a career assessment*Have transcripts evaluated for transfer credit*Meet with a Financial Aid advisor and learn how to finance your education*Register For Upcoming Classes.*Welcome Veterans! Learn About Your Education Benefits.*Enjoy light refreshments and conversation with our staff.*All attendees will receive an application fee waiver.Stop by anytime between 4 -  7 p.m. Can't make it? Please contact our office to schedule a personal advisement session at a time more convenient for you.  wescoe@muhlenberg.edu | 484-664-3300",
+        "Location": "Muhlenberg College"
+    },
+    "Senior Class Campaign Kickoff": {
+        "StartDate": "11/7/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/7/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Class of 2020: This evening is for you! You will kick off your senior year, celebrate all your accomplishments over the last three years and anticipate all that you will achieve beyond the red doors. Hors doeuvres will be served.\r\nTwo alcoholic drinks (21+ only).",
+        "Location": "Moyer"
+    },
+    "Women's and Gender Studies Summit": {
+        "StartDate": "11/7/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/7/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Meet and Greet faculty and students working on gender and sexuality across campus. Stay for an engaging round table discussion \"Mobilizing Rage/Making Change: Suffrage and Beyond\"",
+        "Location": "Seegers"
+    },
+    "MOVING STORIES 2019": {
+        "StartDate": "11/9/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/9/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Physics Speaker - Leo Li": {
+        "StartDate": "11/8/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Leo Li from Brown University will present Quantum condensates in the flat land; bridging the superfluidity and superconductivity",
+        "Location": "Trumbower"
+    },
+    "French Board Game Day": {
+        "StartDate": "11/8/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "French Board Game Day 1Everyone welcome.",
+        "Location": "Ettinger"
+    },
+    "French Club Board Game Extravaganza": {
+        "StartDate": "11/8/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "French Club Board Game Extravaganza\n\r\nJoin French club on \nFriday November 8th from 3-5pm\r\nin the LLC in Ettinger for a fun\r\nafternoon of board games! \n\r\nAll levels of French are welcome.",
+        "Location": "Ettinger"
+    },
+    "Chemistry Speaker - Amy Marschilok": {
+        "StartDate": "11/8/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Amy Marschilok from Stony Brook University will present Electrochemical Energy Storage: Progress and Opportunities.",
+        "Location": "Trumbower"
+    },
+    "Men's Basketball at Moravian": {
+        "StartDate": "11/8/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Moravian",
+        "Location": "Other"
+    },
+    "WINDT FACULTY RECITAL": {
+        "StartDate": "11/8/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/8/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Paul Windt, violin.",
+        "Location": "Center for the Arts"
+    },
+    "FREE FLU SHOTS": {
+        "StartDate": "11/9/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "11/9/2019",
+        "EndTime": "10:00 AM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "Dorney Park Drive thru Flu Clinic - LVHN Bus sponsored by Student Health Services & Campus Safety. Bus to depart from Center for the Arts on Saturday, November 9th, SHARP!Call Health Cehter at 484-664-3199 to reserve seat on bus. NO INSURANCE NEEDED!",
+        "Location": "Other"
+    },
+    "Philadelphia Trip with the Spanish Club": {
+        "StartDate": "11/9/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "11/9/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "The Spanish Club is excited to invite all Muhlenberg students on a FREE trip to Philadelphia on Sat. Nov. 9th. A $10 refundable deposit (accepted via Venmo or cash) is required to reserve a spot! If the deposit is a financial barrier, please email us. As part of the itinerary, students will have some free time to get food on their own! See attached flyer for details!Spots for this trip are limited, to sign up email: spanishclub@muhlenberg.edu",
+        "Location": "Other"
+    },
+    "Muhlenberg Educators Symposium - Fall 2019": {
+        "StartDate": "11/9/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "11/9/2019",
+        "EndTime": "12:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/9/2019 10:00 AM to 12:00 PM\r\nAttend our third Educators Symposium on alternative career pathways in education.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Wrestling at Ned McGinley Invitational (King's)": {
+        "StartDate": "11/9/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "11/9/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Ned McGinley Invitational (King's)",
+        "Location": "Other"
+    },
+    "Football at Gettysburg": {
+        "StartDate": "11/9/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "11/9/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football at Gettysburg",
+        "Location": "Other"
+    },
+    "Women's Basketball at Salisbury": {
+        "StartDate": "11/9/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/9/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Salisbury",
+        "Location": "Other"
+    },
+    "COLLEGIUM MUSICUM CONCERT": {
+        "StartDate": "4/4/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "4/4/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "A concert of Renaissance music directed by Ted Conner.",
+        "Location": "Chapel"
+    },
+    "CHOIR CONCERT": {
+        "StartDate": "11/9/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/9/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Christopher Jackson.",
+        "Location": "Chapel"
+    },
+    "Frendh apple Tart Baking Workshop": {
+        "StartDate": "11/10/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "11/10/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "French Apple Tart Baking Workshop - French Club and Flour Power are teaming up to raise money for those that recently lost their homes in the Allentown Fire.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104"
+    },
+    "Apple Tart Sale": {
+        "StartDate": "11/11/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/11/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "French Apple Tart Sale",
+        "Location": "Seegers"
+    },
+    "Pizza With A Purpose - Lehigh Valley": {
+        "StartDate": "11/12/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/12/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/12/2019\r\nSave The Date - details coming soon. Click here to view more information about Pizza With A Purpose. \r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Pizza With a Purpose - Lehigh Valley": {
+        "StartDate": "11/12/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/12/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/12/2019\r\nShare your stories of persistence and inspiration to help current 'Berg\r\nstudents while you enjoy local slices with fellow alumni.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Mandatory Study Abroad Spring 2020 Pre-Departure Meeting": {
+        "StartDate": "11/12/2019",
+        "StartTime": "5:00 PM",
+        "EndDate": "11/12/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "All students studying abroad/ off-campus during the Spring 2020 semester must attend a MANDATORY Pre-Departure Meeting at 5:00 PM on Tuesday, November 12th, in Trumbower 130. Students will sign up for individual appointments with Dr. Kish-Goodling to choose the courses they will take while they are abroad/ off-campus. They will also receive important instructions and personalized forms about how to transfer course credits, obtain visas, sign up for Fall semester housing and courses at Muhlenberg, and more.",
+        "Location": "Trumbower"
+    },
+    "Men's Basketball at DeSales": {
+        "StartDate": "11/12/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/12/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at DeSales",
+        "Location": "DeSales University"
+    },
+    "#MULEmentum 2019": {
+        "StartDate": "11/13/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/13/2019",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/13/2019\r\nMulementum is back and it's better than ever! 1,848 minutes, 5 challenges, endless ways to build Mulementum. Join the fun at mulementum.com.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Pizza With a Purpose - Northern NJ": {
+        "StartDate": "11/14/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/14/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/14/2019 6:00 PM to 8:00 PM\r\nShare your stories of persistence and inspiration to help current 'Berg students while you enjoy local slices with fellow alumni.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Professor Judah Cohen Lecture": {
+        "StartDate": "11/14/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/14/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Lecture by Professor Judah Cohen on Musical Theater",
+        "Location": "Moyer"
+    },
+    "Spring 2020 registrations opens for First Years": {
+        "StartDate": "11/15/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/15/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Chat with Chai": {
+        "StartDate": "11/15/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/15/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Join us for a campus wide event to \"Chat with Chai\" (and food) and learn more about South Asian Cultures!",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Multicultural Center2252 Chew St"
+    },
+    "Collegiate EMS Week Celebration": {
+        "StartDate": "11/15/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/15/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "You are invited!\n\r\nCelebrate National Collegiate EMS Week, \r\nMCEMS's 20th anniversary, and a safe, \r\nhealthy campus with Muhlenberg College EMS!\n\r\n-Free star of life cookies\r\n-20 Fun Facts for 20 years of MCEMS!\r\n-Blood Pressure Checks",
+        "Location": "Seegers"
+    },
+    "HDI - United National lecture series": {
+        "StartDate": "11/22/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Common Hour talk by Jennifer Paradis Behle, head of UNICEF USA's Greater Philadelphia Committee",
+        "Location": "Moyer"
+    },
+    "Chemistry Speaker - Brice Kessler": {
+        "StartDate": "11/15/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "11/15/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Brice Kessler from Muhlenberg College will present Synthesis and Characterization of Tungsten Complexes of Chiral C2-Symmetric Tetraamine Ligands.",
+        "Location": "Trumbower"
+    },
+    "JACKSON SENIOR RECITAL": {
+        "StartDate": "11/15/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/15/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Margaret Jackson '19, violin.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Basketball vs. Delaware Valley": {
+        "StartDate": "11/15/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/15/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Delaware Valley",
+        "Location": "Life Sports Center"
+    },
+    "Brunch with Marti the Mule": {
+        "StartDate": "11/16/2019",
+        "StartTime": "10:00 AM",
+        "EndDate": "11/16/2019",
+        "EndTime": "12:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 11/16/2019 10:00 AM to 12:00 PM\r\nJoin Marti, the cheerleaders and EMS for a tasty brunch and fun activities before the football game!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Cross Country at NCAA Mideast Regional": {
+        "StartDate": "11/16/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "11/16/2019",
+        "EndTime": "12:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Cross Country at NCAA Mideast Regional (Lehigh)",
+        "Location": "Other"
+    },
+    "Men's Soccer vs. Marymount (ECAC Tournament)": {
+        "StartDate": "11/16/2019",
+        "StartTime": "11:00 AM",
+        "EndDate": "11/16/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. Marymount (ECAC Tournament)",
+        "Location": "Varsity Field"
+    },
+    "MDAG Clothing Swap + Bake Sale!": {
+        "StartDate": "11/16/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "The Muhlenberg Disability Advocacy Group is hosting a clothing swap and bake sale this Saturday (11/16) from 12-4 at the Multicultural Center! Bring your clean, gently used clothes and swap them for a sustainable wardrobe upgrade! Enjoy baked goods for $1 each--cash, Venmo, and Paypal accepted.\n\n\n\n\n\n\nThe Muhlenberg Disability Advocacy Group is hosting a clothing swap and bake sale this Saturday from 12-4 at the Multicultural Center! Bring your clean, gently used clothes and swap them for a sustainable wardrobe upgrade! Enjoy baked goods for $1 each--cash, Venmo, and Paypal accepted.\n\n\n\n",
+        "Location": "Muhlenberg College:  Chew Street - Multicultural Center2252 Chew St"
+    },
+    "Wrestling at Oneonta Duals": {
+        "StartDate": "11/16/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Oneonta Duals",
+        "Location": "Other"
+    },
+    "Football vs. Moravian": {
+        "StartDate": "11/16/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. Moravian",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Women's Basketball at Washington College": {
+        "StartDate": "11/16/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Washington College",
+        "Location": "Other"
+    },
+    "Women's Soccer vs. Hood at DeSales (ECAC Tournament)": {
+        "StartDate": "11/16/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Hood at DeSales (ECAC Tournament)",
+        "Location": "DeSales University"
+    },
+    "Diwali Show": {
+        "StartDate": "11/16/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "11/16/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Come celebrate Diwali, dance and culture with top Naach and other student groups at our annual Diwali Show!",
+        "Location": "Seegers"
+    },
+    "WIND ENSEMBLE CONCERT": {
+        "StartDate": "4/18/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/18/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Andrew Ardizzoia.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Soccer vs. NYU (ECAC Tournament)": {
+        "StartDate": "11/17/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/17/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer vs. NYU (ECAC Tournament)",
+        "Location": "Varsity Field"
+    },
+    "Women's Soccer vs. Alfred at DeSales (ECAC Tournament)": {
+        "StartDate": "11/17/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/17/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer vs. Alfred at DeSales (ECAC Tournament)",
+        "Location": "DeSales University"
+    },
+    "MUSICA DA CAMERA": {
+        "StartDate": "4/5/2020",
+        "StartTime": "4:00 PM",
+        "EndDate": "4/5/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "A concert of chamber music directed by Vincent Trovato.",
+        "Location": "Center for the Arts"
+    },
+    "Open Registration": {
+        "StartDate": "11/18/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "11/18/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "IDEA Zoom Session": {
+        "StartDate": "11/25/2019",
+        "StartTime": "2:30 PM",
+        "EndDate": "11/25/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "This 30-minute session via Zoom will introduce faculty to the steps to the Campus Labs and Canvas sides of the IDEA Course Evaluation in use this Fall 2019 semester.",
+        "Location": "Online"
+    },
+    "SGA Whine Week Tabling": {
+        "StartDate": "11/22/2019",
+        "StartTime": "3:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Final Exam Preparation": {
+        "StartDate": "11/19/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/20/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Heide Fasnacht opening reception": {
+        "StartDate": "11/19/2019",
+        "StartTime": "5:30 PM",
+        "EndDate": "11/19/2019",
+        "EndTime": "7:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "We are pleased to host Heide Fasnacht for her exhibition, Past Imperfect, in the Martin Art Gallery at Muhlenberg College.   We will hold a public reception on Thursday November 19, from 5:30  7:00pm. Additionally, Fasnacht will give an artist talk on Thursday January 23rd at 7:00pm, in the Recital Hall, adjacent to the Gallery.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Basketball vs. King's": {
+        "StartDate": "11/19/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/19/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. King's",
+        "Location": "Life Sports Center"
+    },
+    "Youth & Prejudice Conference for Middle School Students": {
+        "StartDate": "11/20/2019",
+        "StartTime": "10:45 AM",
+        "EndDate": "11/20/2019",
+        "EndTime": "1:15 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "GIVE US TWO HOURS AND MAKE A DIFFERENCE! We will train you to co-facilitate a small group of middle school students at our Youth & Prejudice; Reducing Hatred: Lessons of the Holocaust conference. Slots available on Nov. 20 & 21, 10:45am to 1pm. See flyer for details.",
+        "Location": "Center for the Arts"
+    },
+    "Women's Basketball at DeSales": {
+        "StartDate": "11/20/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/20/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at DeSales",
+        "Location": "DeSales University"
+    },
+    "PERCUSSION ENSEMBLE & STUDENT COMPOSERS CONCERT": {
+        "StartDate": "11/20/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/20/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by James Thoma & Andrew Ardizzoia.",
+        "Location": "Center for the Arts"
+    },
+    "NEW VOICES|NEW VISIONS": {
+        "StartDate": "11/24/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/24/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "NEW VISIONS AFTER HOURS": {
+        "StartDate": "11/24/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/24/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Introducing New Canvas Gradebook": {
+        "StartDate": "12/6/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "12/6/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "In this last gradebook session for the fall semester, we will dive right into the new Canvas gradebook that all Canvas users will be interacting with starting in January 2020. During this Zoom session, we will compare and contrast with the existing gradebook, provide tips and advice, and showcase a number of new features.",
+        "Location": "Online"
+    },
+    "Muhlenberg in Maastricht Study Abroad Info. Meeting": {
+        "StartDate": "11/21/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/21/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Information Session for students interested in attending the Muhlenberg in Maastricht study abroad program in the Netherlands during the Fall 2020 semester. Since the Maastricht Program was designed specifically for Accounting, Business, Economics, and Finance (ABEF) majors,  Dr. Lindsey Nagy from Economics will accompany the Fall 2020 cohort and teach there. However, the Maastricht Program is, indeed, open to Sophomores and Juniors in ALL majors.",
+        "Location": "Moyer"
+    },
+    "Coffee and Copyright": {
+        "StartDate": "11/22/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "1:00 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "We will address and discuss some of the most common scenarios in academic copyright pertaining to both teaching and publishing. Come join us for an informal and informative conversation. Coffee provided, bring your lunch",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler LibraryMuhlenberg College:  Chew Street - Trexler LibraryRoom:\u00a0Fulford Room"
+    },
+    "4th STUDENT RECITAL": {
+        "StartDate": "4/1/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "4/1/2020",
+        "EndTime": "7:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Students of Applied Music perform.",
+        "Location": "Center for the Arts"
+    },
+    "Planned Parenthood Volunteer Orientation": {
+        "StartDate": "11/22/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "For a training and orientation for prospective volunteers who are interested in working with our local Planned Parenthood affiliate, Planned Parenthood Keystone.",
+        "Location": "Ettinger"
+    },
+    "Giftbox on the Doorstep": {
+        "StartDate": "11/22/2019",
+        "StartTime": "3:30 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "4:30 PM",
+        "Category": "Lectures & Forums",
+        "EventDesc": "Presentation in everyday language on the unseen and somewhat mysterious microworld that builds and sustains organizations, including Muhlenberg.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler LibraryMuhlenberg College:  Chew Street - Trexler LibraryRoom:\u00a0AT&T Information Commons"
+    },
+    "Women's Basketball vs. Neumann (Scotty Wood Tournament)": {
+        "StartDate": "11/22/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Neumann (Scotty Wood Tournament)",
+        "Location": "Life Sports Center"
+    },
+    "SGA Whine Week": {
+        "StartDate": "11/22/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Student Life",
+        "EventDesc": "Come express ideas and concerns to SGA during our Fall Whine Week! We will be tabling and creating a banner of ideas that interest you during our Seegers Union tabling (hours below). Come each day for a chance to receive special prizes, win a Jays Local gift card, and be entered to win AirPods Pro! Be sure to sign our Thankful banner at the Seegers table the week of 11/25 as well!\n\r\nCome celebrate as well at our Whine and Cheese social, which will be held this Friday, November 22nd from 7-9pm in the Seegers Union Great Room. Free food, music, and wine (for those 21+). All are welcome! Hope to see you there!",
+        "Location": "Seegers"
+    },
+    "BIG BAND CONCERT": {
+        "StartDate": "4/17/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/17/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Tony Gairo.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Basketball vs. Bryn Athyn (Scotty Wood Tournament)": {
+        "StartDate": "11/22/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/22/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Bryn Athyn (Scotty Wood Tournament)",
+        "Location": "Life Sports Center"
+    },
+    "Wrestling hosts Scotty Wood Duals": {
+        "StartDate": "11/23/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "11/23/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Mules vs. Delaware Valley, 9:00; vs. Kent State Tuscarawas, 10:30; vs. Wilkes, 12:15; vs. Central, 1:30",
+        "Location": "Life Sports Center"
+    },
+    "Men's Cross Country at NCAA Championships (Louisville)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "10:30 AM",
+        "EndDate": "11/23/2019",
+        "EndTime": "11:30 AM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Cross Country at NCAA Championships (Louisville)",
+        "Location": "Other"
+    },
+    "Football vs. MIT (NCAA Tournament)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "11/23/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Football vs. MIT (NCAA Tournament)",
+        "Location": "Scotty Wood Stadium"
+    },
+    "Women's Soccer at McDaniel vs. Springfield (ECAC semifinal)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "11/23/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Soccer at McDaniel vs. Springfield (ECAC semifinal)",
+        "Location": "Other"
+    },
+    "FLUTE ENSEMBLE CONCERT": {
+        "StartDate": "4/18/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "4/18/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Elaine Martin.",
+        "Location": "Chapel"
+    },
+    "Women's Basketball vs. Catholic or Penn State Abington (Scotty Wood Tournament)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/23/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Catholic or Penn State Abington (Scotty Wood Tournament)",
+        "Location": "Life Sports Center"
+    },
+    "CHAMBER ORCHESTRA CONCERT": {
+        "StartDate": "4/25/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/25/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Daniel Boring.",
+        "Location": "Center for the Arts"
+    },
+    "Men's Soccer at Stevenson vs. Widener (ECAC semifinal)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "7:30 PM",
+        "EndDate": "11/23/2019",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Soccer at Stevenson vs. Widener (ECAC semifinal)",
+        "Location": "Other"
+    },
+    "Men's Basketball vs. Neumann or Purchase (Scotty Wood Tournament)": {
+        "StartDate": "11/23/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/23/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Neumann or Purchase (Scotty Wood Tournament)",
+        "Location": "Life Sports Center"
+    },
+    "Women's Basketball vs. Dickinson": {
+        "StartDate": "11/26/2019",
+        "StartTime": "6:00 PM",
+        "EndDate": "11/26/2019",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Dickinson",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs. Dickinson": {
+        "StartDate": "11/26/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "11/26/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Dickinson",
+        "Location": "Life Sports Center"
+    },
+    "Posadas": {
+        "StartDate": "12/3/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "12/3/2019",
+        "EndTime": "8:30 PM",
+        "Category": "Recreation & Wellness",
+        "EventDesc": "Posadas will take place on Tuesday 3 December from 7-8:30 pm. We will start at the CA, then move on to Seegers, then on to the Chaplain's house, then end up at the President's house, with Latin holiday treats at our last two stops, generously funded by the President's office. What are Posadas? They are a song cycle from 16th century Mexico. They are similar to carols, in that a group of singers moves from one home to another.Posadas they are different in that they follow the Advent story of the refugee family of Mary and Joseph as they travel through foreign lands in search of a place where Mary can have here child --that would be the baby Jesus!-- in safety and whatever comfort they can find. The songs recount the pleas for shelter, the rejection that followed, and eventually, the welcoming of this migrant family. Por supuesto, this is a powerful reminder of today's situation of migrants crossing borders and facing hostility... with a happy ending that we hope will inspire us all. Plus, the music is truly lovely.   Please mention this to your students, put it on your calendars... we will have a time set before the 3rd to practice... though practice is NOT required for this to be a success.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104"
+    },
+    "Women's Basketball at Moravian": {
+        "StartDate": "12/3/2019",
+        "StartTime": "7:00 PM",
+        "EndDate": "12/3/2019",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Moravian",
+        "Location": "Other"
+    },
+    "Men's Basketball at Washington College": {
+        "StartDate": "12/4/2019",
+        "StartTime": "8:00 PM",
+        "EndDate": "12/4/2019",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Washington College",
+        "Location": "Other"
+    },
+    "Canvas Modules": {
+        "StartDate": "12/5/2019",
+        "StartTime": "12:30 PM",
+        "EndDate": "12/5/2019",
+        "EndTime": "1:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "What is a module? What are various ways to use modules in Canvas? Learn more about this area, and collaborate with colleagues regarding the possibilities! This session will be held in Zoom.",
+        "Location": "Online"
+    },
+    "Classes End": {
+        "StartDate": "12/6/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "12/6/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "n:Name: Carolyn BrownPhone: 484-664-3100Email: brown@muhlenberg.edu",
+        "Location": "Muhlenberg College"
+    },
+    "Wrestling at Messiah Petrofes Invitational": {
+        "StartDate": "12/7/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "12/7/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Messiah Petrofes Invitational",
+        "Location": "Other"
+    },
+    "Dance Performances": {
+        "StartDate": "12/6/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "12/6/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Academic Calendar",
+        "EventDesc": "Dance Performances",
+        "Location": "Muhlenberg College"
+    },
+    "CANDLELIGHT CAROL SERVICES OPEN DRESS REHEARSAL": {
+        "StartDate": "12/6/2019",
+        "StartTime": "2:30 PM",
+        "EndDate": "12/6/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "No tickets required. Dress rehearsal of music for upcoming Candlelight Carols.",
+        "Location": "Chapel"
+    },
+    "Study Days": {
+        "StartDate": "12/7/2019",
+        "StartTime": "<b>End Date:\u00a0</b>",
+        "EndDate": "<b>Event Description:</b>",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Muhlenberg Football Alumni at Tree Farm": {
+        "StartDate": "12/7/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "12/7/2019",
+        "EndTime": "5:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 12/7/2019 9:00 AM to 5:00 PM\r\nGet together with alumni and friends at Cerbo's Christmas Tree Farm and support Muhlenberg football.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Track & Field at Fast Times Before Finals Meet (Lehigh)": {
+        "StartDate": "12/7/2019",
+        "StartTime": "9:00 AM",
+        "EndDate": "12/7/2019",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field at Fast Times Before Finals Meet (Lehigh)",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Johns Hopkins": {
+        "StartDate": "12/7/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "12/7/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Johns Hopkins",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs. Johns Hopkins": {
+        "StartDate": "12/7/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "12/7/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Johns Hopkins",
+        "Location": "Life Sports Center"
+    },
+    "Final Exams": {
+        "StartDate": "12/9/2019",
+        "StartTime": "<b>End Date:\u00a0</b>",
+        "EndDate": "<b>Event Description:</b>",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Accessibility and Technology": {
+        "StartDate": "12/9/2019",
+        "StartTime": "1:00 PM",
+        "EndDate": "12/9/2019",
+        "EndTime": "2:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Join us for a mini workshop on accessibility and technology, and in collaboration time on works in progress. Both faculty and staff are welcome to learn about tools, tips, and techniques for maximizing inclusive design and course materials, publicity, document creation and the like, with particular focus on technology's roles and options. Leave with a start on your course updates, ideas on how to adjust current workflows and documents, and develop pathways forward, all with knowledge of how technology and best practices related to accessibility can help!",
+        "Location": "Ettinger"
+    },
+    "Women's Basketball vs. Haverford": {
+        "StartDate": "12/14/2019",
+        "StartTime": "2:00 PM",
+        "EndDate": "12/14/2019",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Haverford",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs. Haverford": {
+        "StartDate": "12/14/2019",
+        "StartTime": "4:00 PM",
+        "EndDate": "12/14/2019",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Haverford",
+        "Location": "Life Sports Center"
+    },
+    "Final Grades Due": {
+        "StartDate": "12/16/2019",
+        "StartTime": "12:00 AM",
+        "EndDate": "12/16/2019",
+        "EndTime": "",
+        "Category": "Academic Calendar",
+        "EventDesc": "",
+        "Location": "Muhlenberg College"
+    },
+    "Collaboration Tools": {
+        "StartDate": "12/19/2019",
+        "StartTime": "12:30 PM",
+        "EndDate": "12/19/2019",
+        "EndTime": "1:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "Wanting to try something new this spring with your courses? Aiming for more collaboration inside and outside the classroom? Want to scale-up your technological tool knowledge and use? This Zoom session will explore options here at Muhlenberg as well as some things to keep in mind while considering additional collaborative tools and their possible use.",
+        "Location": "Online"
+    },
+    "Wrestling at JWU Duals": {
+        "StartDate": "12/21/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "12/21/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at JWU Duals",
+        "Location": "Other"
+    },
+    "Wrestling at Wilkes Open": {
+        "StartDate": "12/22/2019",
+        "StartTime": "12:00 PM",
+        "EndDate": "12/22/2019",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Wilkes Open",
+        "Location": "Other"
+    },
+    "Men's Basketball at Sarah Lawrence": {
+        "StartDate": "1/4/2020",
+        "StartTime": "12:00 PM",
+        "EndDate": "1/4/2020",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Sarah Lawrence",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Washington College": {
+        "StartDate": "1/4/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "1/4/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Washington College",
+        "Location": "Life Sports Center"
+    },
+    "Alumni Cooking Class:  Authentic Italian Cuisine": {
+        "StartDate": "1/7/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/7/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/7/2020 6:00 PM to 8:00 PM\r\nExplore the origins of real Italian food with Muhlenberg's top chef Jon Middleton and a faculty expert. \r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Women's Basketball at Bryn Mawr": {
+        "StartDate": "1/7/2020",
+        "StartTime": "7:00 PM",
+        "EndDate": "1/7/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Bryn Mawr",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Swarthmore": {
+        "StartDate": "1/9/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/9/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Swarthmore",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs. Swarthmore": {
+        "StartDate": "1/9/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "1/9/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Swarthmore",
+        "Location": "Life Sports Center"
+    },
+    "Wrestling hosts Mule Duals": {
+        "StartDate": "1/11/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "1/11/2020",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling hosts Mule Duals",
+        "Location": "Life Sports Center"
+    },
+    "Women's Basketball at McDaniel": {
+        "StartDate": "1/11/2020",
+        "StartTime": "1:00 PM",
+        "EndDate": "1/11/2020",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at McDaniel",
+        "Location": "Other"
+    },
+    "Men's Basketball at McDaniel": {
+        "StartDate": "1/11/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "1/11/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at McDaniel",
+        "Location": "Other"
+    },
+    "Wrestling at East Stroudsburg": {
+        "StartDate": "1/14/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/14/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at East Stroudsburg",
+        "Location": "Other"
+    },
+    "Women's Basketball at Ursinus": {
+        "StartDate": "1/15/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/15/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Ursinus",
+        "Location": "Other"
+    },
+    "Men's Basketball vs. Ursinus": {
+        "StartDate": "1/15/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "1/15/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Ursinus",
+        "Location": "Life Sports Center"
+    },
+    "THAW 2020": {
+        "StartDate": "1/16/2020",
+        "StartTime": "12:00 AM",
+        "EndDate": "1/16/2020",
+        "EndTime": "12:00 AM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020\r\nSave the date for the 7th Annual Toast Heard Around The World. Click here to learn more.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Atlanta, Ga.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:30 PM\r\nCelebrate with Mules in your area, and around the world, at the 7th Annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Easton, Pa.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Lewisburg, Pa.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Lighthouse Point, Fla.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Macungie, Pa.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nCelebrate with Mules in your area, and around the world, at the 7th Annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Morristown, N.J.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - New York, N.Y.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nCelebrate with Mules in your area at this flagship New York City THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Phoenixville, Pa.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:00 PM\r\nCelebrate with Mules in your area, and around the world, at the 7th Annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Portland, Ore.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Rochester, N.Y.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - San Jose, Calif.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Sip & Move - Brooklyn, N.Y.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 9:00 PM\r\nEnergize and celebrate with Mules in your area at this unique wellness-themed THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Wescoe School Alumni-Student Mixer": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:30 PM\r\nCelebrate with Mules in your area, and around the world, at the 7th Annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Astoria, N.Y.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:30 PM to 9:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Jacksonville, Fla.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:00 PM to 8:30 PM\r\nCelebrate with Mules in your area, and around the world, at the 7th Annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Paramus, N.J.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:30 PM to 8:30 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Scottsdale, Ariz.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:30 PM to 8:30 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Williamsburg, Va.": {
+        "StartDate": "1/16/2020",
+        "StartTime": "6:30 PM",
+        "EndDate": "1/16/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:30 PM to 8:30 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "Track & Field at John Covert Classic (Lehigh)": {
+        "StartDate": "1/18/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "1/18/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field at John Covert Classic (Lehigh)",
+        "Location": "Other"
+    },
+    "Wrestling at Mid-Winter Classic (Penn College)": {
+        "StartDate": "1/18/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "1/18/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Mid-Winter Classic (Penn College)",
+        "Location": "Other"
+    },
+    "Men's Basketball at Franklin & Marshall": {
+        "StartDate": "1/18/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "1/18/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Women's Basketball vs Franklin & Marshall": {
+        "StartDate": "1/18/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "1/18/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs Franklin & Marshall",
+        "Location": "Life Sports Center"
+    },
+    "Wrestling at Ursinus": {
+        "StartDate": "1/22/2020",
+        "StartTime": "7:00 PM",
+        "EndDate": "1/22/2020",
+        "EndTime": "9:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Ursinus",
+        "Location": "Other"
+    },
+    "Men's Basketball vs. Washington College": {
+        "StartDate": "1/22/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "1/22/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Washington College",
+        "Location": "Life Sports Center"
+    },
+    "A Century of Struggle: Women's Rights Before and after Suffrage - History Department Speaker Series": {
+        "StartDate": "4/6/2020",
+        "StartTime": "4/6/2020",
+        "EndDate": "<b>Location Information:</b>",
+        "EndTime": "<table border=\"0\" cellpadding=\"5\" cellspacing=\"0\" width=\"100%\">\n<tr>\n<td class=\"detailsview\"><b>Other Details:</b><br/>More details to follow.</td>\n</tr>\n</table>",
+        "Category": "Lectures & Forums",
+        "EventDesc": " details to follow.",
+        "Location": "Muhlenberg College"
+    },
+    "Track & Field hosts Muhlenberg Invitational": {
+        "StartDate": "1/24/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "1/24/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field hosts Muhlenberg Invitational",
+        "Location": "Life Sports Center"
+    },
+    "Wrestling at Gettysburg": {
+        "StartDate": "1/25/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "1/25/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Gettysburg, with McDaniel and Washington & Lee",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Gettysburg": {
+        "StartDate": "1/25/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "1/25/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Gettysburg",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs. Gettysburg": {
+        "StartDate": "1/25/2020",
+        "StartTime": "4:00 PM",
+        "EndDate": "1/25/2020",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Gettysburg",
+        "Location": "Life Sports Center"
+    },
+    "Women's Basketball at Dickinson": {
+        "StartDate": "1/29/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "1/29/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Dickinson",
+        "Location": "Other"
+    },
+    "Men's Basketball at Dickinson": {
+        "StartDate": "1/29/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "1/29/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Dickinson",
+        "Location": "Other"
+    },
+    "Track & Field at NYC DIII Invitational (The Armory)": {
+        "StartDate": "1/31/2020",
+        "StartTime": "9:00 AM",
+        "EndDate": "1/31/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field at NYC DIII Invitational (The Armory)",
+        "Location": "Other"
+    },
+    "Wrestling at WPI": {
+        "StartDate": "2/1/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/1/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at WPI",
+        "Location": "Other"
+    },
+    "Men's Basketball at Johns Hopkins": {
+        "StartDate": "2/1/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "2/1/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Johns Hopkins",
+        "Location": "Other"
+    },
+    "Women's Basketball at Johns Hopkins": {
+        "StartDate": "2/1/2020",
+        "StartTime": "4:00 PM",
+        "EndDate": "2/1/2020",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Johns Hopkins",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Ursinus": {
+        "StartDate": "2/4/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/4/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Ursinus",
+        "Location": "Life Sports Center"
+    },
+    "Celebration of Scholarship": {
+        "StartDate": "2/6/2020",
+        "StartTime": "4:00 PM",
+        "EndDate": "2/6/2020",
+        "EndTime": "5:30 PM",
+        "Category": "Academics & Research",
+        "EventDesc": "The Office of the Provost and Trexler Library invite you to our second annual Celebration of Scholarship.This reception is to recognize and elevate the scholarly and creative achievements of Muhlenberg's outstanding faculty! Mingle with faculty scholars over drinks and hors d'oeuvres, as we showcase faculty publications, presentations, readings, performances, exhibitions, creative works, lectures and other scholarly activities completed during the 2019 calendar year.",
+        "Location": "Muhlenberg College:  Chew Street\u00a0\u00a0(View Map)2400 Chew Street Allentown, PA 18104Muhlenberg College:  Chew Street - Trexler Library"
+    },
+    "Women's Basketball at Swarthmore": {
+        "StartDate": "2/6/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "2/6/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Swarthmore",
+        "Location": "Other"
+    },
+    "MASTER CHOREOGRAPHERS '20": {
+        "StartDate": "2/8/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "2/8/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "Men's Basketball at Swarthmore": {
+        "StartDate": "2/6/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "2/6/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Swarthmore",
+        "Location": "Other"
+    },
+    "Track and Field at Frank Colden Invitational (Ursinus)": {
+        "StartDate": "2/8/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/8/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track and Field at Frank Colden Invitational (Ursinus)",
+        "Location": "Other"
+    },
+    "Wrestling at Messiah Open": {
+        "StartDate": "2/8/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/8/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at Messiah Open",
+        "Location": "Other"
+    },
+    "Wrestling vs. Johns Hopkins and Merchant Marine (at McDaniel)": {
+        "StartDate": "2/8/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/8/2020",
+        "EndTime": "2:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling vs. Johns Hopkins and Merchant Marine (at McDaniel)",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. McDaniel": {
+        "StartDate": "2/8/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "2/8/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. McDaniel",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball vs McDaniel": {
+        "StartDate": "2/8/2020",
+        "StartTime": "4:00 PM",
+        "EndDate": "2/8/2020",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs McDaniel",
+        "Location": "Life Sports Center"
+    },
+    "CELEBRATION OF AFRICAN AMERICAN POETS & COMPOSERS": {
+        "StartDate": "2/14/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/14/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Concert featuring Music Department Faculty, Muhlenberg Gospel Choir & Choral Ensembles.",
+        "Location": "Center for the Arts"
+    },
+    "Women's Basketball at Haverford": {
+        "StartDate": "2/12/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "2/12/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Haverford",
+        "Location": "Other"
+    },
+    "Men's Basketball at Haverford": {
+        "StartDate": "2/12/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "2/12/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Haverford",
+        "Location": "Other"
+    },
+    "Track & Field at Fast Track National Invitational (Staten Island)": {
+        "StartDate": "2/14/2020",
+        "StartTime": "9:00 AM",
+        "EndDate": "2/14/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field at Fast Track National Invitational (Staten Island)",
+        "Location": "Other"
+    },
+    "Wrestling hosts Centennial Conference Championship": {
+        "StartDate": "2/15/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/15/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling hosts Centennial Conference Championship",
+        "Location": "Life Sports Center"
+    },
+    "Women's Basketball at Franklin & Marshall": {
+        "StartDate": "2/15/2020",
+        "StartTime": "1:00 PM",
+        "EndDate": "2/15/2020",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Franklin & Marshall",
+        "Location": "Other"
+    },
+    "Men's Basketball vs. Franklin & Marshall": {
+        "StartDate": "2/16/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "2/16/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball vs. Franklin & Marshall",
+        "Location": "Life Sports Center"
+    },
+    "Men's Basketball at Ursinus": {
+        "StartDate": "2/19/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/19/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Ursinus",
+        "Location": "Other"
+    },
+    "Women's Basketball vs. Bryn Mawr": {
+        "StartDate": "2/19/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/19/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball vs. Bryn Mawr",
+        "Location": "Life Sports Center"
+    },
+    "A RAISIN IN THE SUN": {
+        "StartDate": "2/23/2020",
+        "StartTime": "2:00 PM",
+        "EndDate": "2/23/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "CLASS OF 1969 COMPETITION": {
+        "StartDate": "2/21/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/21/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Advanced instrumental & vocal music students compete for prize sponsored by Muhlenberg alumni.",
+        "Location": "Center for the Arts"
+    },
+    "Wrestling vs. Elizabethtown": {
+        "StartDate": "2/21/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "2/21/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling vs. Elizabethtown",
+        "Location": "Life Sports Center"
+    },
+    "Track & Field at Keogh Invitational (Haverford)": {
+        "StartDate": "2/22/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "2/22/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track & Field at Keogh Invitational (Haverford)",
+        "Location": "Other"
+    },
+    "Women's Basketball at Gettysburg": {
+        "StartDate": "2/22/2020",
+        "StartTime": "1:00 PM",
+        "EndDate": "2/22/2020",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Women's Basketball at Gettysburg",
+        "Location": "Other"
+    },
+    "Men's Basketball at Gettysburg": {
+        "StartDate": "2/22/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "2/22/2020",
+        "EndTime": "5:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Men's Basketball at Gettysburg",
+        "Location": "Other"
+    },
+    "MILLER SENIOR RECITAL": {
+        "StartDate": "2/22/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "2/22/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "CarolAnn Miller, '20, mezzo-soprano.",
+        "Location": "Chapel"
+    },
+    "Wrestling hosts Northeast/Mideast Futures Tournament": {
+        "StartDate": "2/23/2020",
+        "StartTime": "9:00 AM",
+        "EndDate": "2/23/2020",
+        "EndTime": "3:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling hosts Northeast/Mideast Futures Tournament",
+        "Location": "Life Sports Center"
+    },
+    "Track and Field at Centennial Conference Championships (Franklin & Marshall)": {
+        "StartDate": "3/1/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "3/1/2020",
+        "EndTime": "6:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Track and Field at Centennial Conference Championships (Franklin & Marshall)",
+        "Location": "Other"
+    },
+    "Wrestling at NCAA Mideast Regional (Ithaca)": {
+        "StartDate": "3/1/2020",
+        "StartTime": "10:00 AM",
+        "EndDate": "3/1/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Athletics",
+        "EventDesc": "Wrestling at NCAA Mideast Regional (Ithaca)",
+        "Location": "Other"
+    },
+    "Alumni Cooking Class:  Chef's Tips, Tricks & Shortcuts": {
+        "StartDate": "3/3/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "3/3/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 3/3/2020 6:00 PM to 8:00 PM\r\nLearn time-saving techniques for the kitchen from Muhlenberg's top chef Jon Middleton.\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "THAW - Marlton, N.J.": {
+        "StartDate": "3/3/2020",
+        "StartTime": "6:00 PM",
+        "EndDate": "3/3/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Alumni",
+        "EventDesc": "Date: 1/16/2020 6:30 PM to 9:00 PM\r\nCelebrate with Mules in your area and around the world at the 7th annual THAW!\r\n\r\nFor location information and other details \r\nvisit the Alumni Network website",
+        "Location": "Muhlenberg College"
+    },
+    "CONTEMPORARY MUSIC FESTIVAL": {
+        "StartDate": "4/3/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/3/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "The Music of Andrew Ardizzoia from 1998-2020.",
+        "Location": "Center for the Arts"
+    },
+    "LESTER SENIOR RECITAL": {
+        "StartDate": "3/15/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "3/15/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Haley Lester, '20, soprano.",
+        "Location": "Center for the Arts"
+    },
+    "A CELEBRATION OF SISTERHOOD: SONGS FOR & ABOUT WOMEN": {
+        "StartDate": "3/15/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "3/15/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Students from the voice studio of Christa Warda present duets and songs celebrating women.",
+        "Location": "Center for the Arts"
+    },
+    "MACKAY SENIOR RECITAL": {
+        "StartDate": "3/22/2020",
+        "StartTime": "1:00 PM",
+        "EndDate": "3/22/2020",
+        "EndTime": "2:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Sophie MacKay, '20, soprano",
+        "Location": "Chapel"
+    },
+    "THE BACCHAE": {
+        "StartDate": "3/29/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "3/29/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "CHORAL CONCERT": {
+        "StartDate": "3/28/2020",
+        "StartTime": "3:00 PM",
+        "EndDate": "3/28/2020",
+        "EndTime": "4:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Christopher Jackson.",
+        "Location": "Chapel"
+    },
+    "NIELSEN SENIOR RECITAL": {
+        "StartDate": "3/28/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "3/28/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Heather Nielsen, '20, soprano.",
+        "Location": "Chapel"
+    },
+    "MESROBIAN SENIOR RECITAL": {
+        "StartDate": "3/29/2020",
+        "StartTime": "1:00 PM",
+        "EndDate": "3/29/2020",
+        "EndTime": "2:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Arianna Mesrobian, '20, piano.",
+        "Location": "Chapel"
+    },
+    "ALDAVE SENIOR RECITAL": {
+        "StartDate": "4/4/2020",
+        "StartTime": "5:00 PM",
+        "EndDate": "4/4/2020",
+        "EndTime": "6:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Zachary Aldave, '20, baritone.",
+        "Location": "Center for the Arts"
+    },
+    "CENTER FOR ETHICS": {
+        "StartDate": "4/6/2020",
+        "StartTime": "7:00 PM",
+        "EndDate": "4/6/2020",
+        "EndTime": "8:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Musicologist Brigid Cohen.",
+        "Location": "Moyer"
+    },
+    "KEN ZUCKERMAN CONCERT": {
+        "StartDate": "4/8/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/8/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Hindustani Ragas.",
+        "Location": "Moyer"
+    },
+    "KEN ZUCKERMAN WORKSHOP": {
+        "StartDate": "4/9/2020",
+        "StartTime": "11:00 AM",
+        "EndDate": "4/9/2020",
+        "EndTime": "12:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Workshop of Hindustani Ragas.",
+        "Location": "Moyer"
+    },
+    "PERCUSSION ENSEMBLE/DRUM CIRCLE & STUDENT COMPOSERS CONCERT": {
+        "StartDate": "4/22/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/22/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by James Thoma & Andrew Ardizzoia.",
+        "Location": "Center for the Arts"
+    },
+    "DANCE EMERGE 2020": {
+        "StartDate": "4/25/2020",
+        "StartTime": "8:00 PM",
+        "EndDate": "4/25/2020",
+        "EndTime": "10:00 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "on a custom schedule. Click here to see the series dates.",
+        "Location": "Muhlenberg College"
+    },
+    "CAPONE SENIOR RECITAL": {
+        "StartDate": "4/25/2020",
+        "StartTime": "5:30 PM",
+        "EndDate": "4/25/2020",
+        "EndTime": "6:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Margaret Capone '20, soprano.",
+        "Location": "Chapel"
+    },
+    "CHAMBER CHOIR: MOZART'S MASS IN C MINOR": {
+        "StartDate": "4/26/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/26/2020",
+        "EndTime": "9:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "With The Camerata Singers.First Presbyterian Church3231 West Tilghman StreetAllentown, PA 18104",
+        "Location": "Muhlenberg College"
+    },
+    "OPERA WORKSHOP": {
+        "StartDate": "4/29/2020",
+        "StartTime": "7:30 PM",
+        "EndDate": "4/29/2020",
+        "EndTime": "8:30 PM",
+        "Category": "Performance, Concerts & Exhibitions",
+        "EventDesc": "Directed by Fiona Gillespie & Lauren Madigan.",
+        "Location": "Center for the Arts"
+    }
+}
