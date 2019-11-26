@@ -1,0 +1,38 @@
+<%= link_to image_tag('home.png', :size=> "50x50"), calendar_show_path%>
+
+<html>
+<head>
+<style>
+body {
+    background: rgb(2,0,36);
+}
+div {
+  background-color: none;
+  width: 50%;
+  height: 500px;
+  border: none;
+  padding: 10px;
+  margin: auto;
+}
+</style>
+</head>
+<body>
+
+<h2 style = "text-align:center">User Login</h2>
+
+
+<div>
+<%= image_tag('face.jpg', :style => 'border-right: 1px solid #000; margin: 60px;') %>
+<% if current_user %>
+   <p style ="font-size: 150%; text-align:center">Username: <%= current_user.email %></p>
+<% end %>
+<p style ="font-size: 150%; text-align:center">Current Date: 09/34/2000</p>
+<p style ="font-size: 150%; text-align:center">Liked Days:</p>
+<p style ="text-align:center">09/34/2000</p>
+
+
+
+</div>
+
+</body>
+</html>
