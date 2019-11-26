@@ -5,24 +5,23 @@
   <table>
     <tbody>
       <tr>
-        <th width = "250">Title</th>
-        <th width = "250">Date</th>
-        <th width = "250">Time</th>
-        <th width = "250">Location</th>
-        <th width = "250">Type</th>
+        <th width = "400">Title</th>
+        <th width = "150">Date</th>
+        <th width = "150">Time</th>
+        <th width = "200">Location</th>
+        <th width = "200">Type</th>
+        <th width = "150">Like</th>
       <tr>
       <% @events.each do |event| %>
         <tr>
-          <% if params[:format].to_s == event.day.to_s %>
-          <td><%= event.title %></td>
-          <td><%= event.day %></td>
+
+          <% if params[:format].to_s == event.sdate %>
+          <td><%= link_to event.title, events_detail_path(event.id) %></td>
+          <td><%= event.sdate %></td>
           <td><%= event.stime %></td>
-          <% @locations.each do |location| %>
-            <td><%= Location.find(event.Location_id = location.id).name %></td>
-          <% end %>
-          <% @types.each do |type| %>
-            <td><%= Type.find(event.Type_id = type.id).name %></td>
-          <% end %>
+          <td><%= Location.find(event.Location_id).name %></td>
+          <td><%= Type.find(event.Type_id).name %></td>
+          <td><%= check_box(:Event,{:id => "Event",:value => "Event"}) %>
           <% end %>
         <tr>
       <% end %>
